@@ -1,0 +1,1808 @@
+year,season,country,gold,silver,bronze
+1896,Summer Olympics,United States,11,7,2
+1896,Summer Olympics,Greece,10,18,19
+1896,Summer Olympics,Germany,6,5,2
+1896,Summer Olympics,France,5,4,2
+1896,Summer Olympics,Great Britain,2,3,2
+1896,Summer Olympics,Hungary,2,1,3
+1896,Summer Olympics,Austria,2,1,2
+1896,Summer Olympics,Australia,2,0,0
+1896,Summer Olympics,Denmark,1,2,3
+1896,Summer Olympics,Switzerland,1,2,0
+1896,Summer Olympics,Mixed team,1,0,1
+1900,Summer Olympics,France,31,41,40
+1900,Summer Olympics,United States,20,13,15
+1900,Summer Olympics,Great Britain,20,8,9
+1900,Summer Olympics,Belgium,6,6,6
+1900,Summer Olympics,Switzerland,6,3,1
+1900,Summer Olympics,Germany,4,3,2
+1900,Summer Olympics,Italy,3,2,0
+1900,Summer Olympics,Denmark,1,3,2
+1900,Summer Olympics,Mixed team,1,2,3
+1900,Summer Olympics,Netherlands,1,2,3
+1900,Summer Olympics,Hungary,1,2,2
+1900,Summer Olympics,Cuba,1,1,0
+1900,Summer Olympics,Spain,1,0,0
+1900,Summer Olympics,Austria,0,3,3
+1900,Summer Olympics,Norway,0,2,3
+1900,Summer Olympics,India,0,2,0
+1900,Summer Olympics,Bohemia,0,1,1
+1900,Summer Olympics,Australia,0,0,3
+1900,Summer Olympics,Sweden,0,0,1
+1904,Summer Olympics,United States,80,85,83
+1904,Summer Olympics,Germany,5,4,5
+1904,Summer Olympics,Canada,4,1,1
+1904,Summer Olympics,Cuba,3,0,0
+1904,Summer Olympics,Hungary,2,1,1
+1904,Summer Olympics,Great Britain,1,1,0
+1904,Summer Olympics,Greece,1,0,1
+1904,Summer Olympics,Mixed team,1,0,0
+1908,Summer Olympics,Great Britain,56,51,39
+1908,Summer Olympics,United States,23,12,12
+1908,Summer Olympics,Sweden,8,6,11
+1908,Summer Olympics,France,5,5,9
+1908,Summer Olympics,Germany,3,5,5
+1908,Summer Olympics,Hungary,3,4,2
+1908,Summer Olympics,Canada,3,3,10
+1908,Summer Olympics,Norway,2,3,3
+1908,Summer Olympics,Italy,2,2,0
+1908,Summer Olympics,Belgium,1,5,2
+1908,Summer Olympics,Australasia,1,2,2
+1908,Summer Olympics,Russian Federation,1,2,0
+1908,Summer Olympics,Finland,1,1,3
+1908,Summer Olympics,South Africa,1,1,0
+1908,Summer Olympics,Greece,0,3,1
+1908,Summer Olympics,Denmark,0,2,3
+1908,Summer Olympics,Bohemia,0,0,2
+1908,Summer Olympics,Netherlands,0,0,2
+1908,Summer Olympics,Austria,0,0,1
+1912,Summer Olympics,United States,26,19,19
+1912,Summer Olympics,Sweden,23,25,17
+1912,Summer Olympics,Great Britain,10,15,16
+1912,Summer Olympics,Finland,9,8,9
+1912,Summer Olympics,France,7,5,3
+1912,Summer Olympics,Germany,6,13,7
+1912,Summer Olympics,Italy,5,1,2
+1912,Summer Olympics,South Africa,4,2,0
+1912,Summer Olympics,Norway,3,2,5
+1912,Summer Olympics,Canada,3,2,3
+1912,Summer Olympics,Hungary,3,2,3
+1912,Summer Olympics,Australasia,2,2,3
+1912,Summer Olympics,Belgium,2,1,3
+1912,Summer Olympics,Denmark,1,6,5
+1912,Summer Olympics,Greece,1,0,1
+1912,Summer Olympics,Switzerland,1,0,0
+1912,Summer Olympics,Russian Federation,0,2,3
+1912,Summer Olympics,Austria,0,2,2
+1912,Summer Olympics,Netherlands,0,0,3
+1920,Summer Olympics,United States,41,27,27
+1920,Summer Olympics,Sweden,19,20,25
+1920,Summer Olympics,Belgium,16,12,14
+1920,Summer Olympics,Finland,15,10,9
+1920,Summer Olympics,Great Britain,14,16,13
+1920,Summer Olympics,Italy,14,6,5
+1920,Summer Olympics,Norway,13,10,9
+1920,Summer Olympics,France,9,20,13
+1920,Summer Olympics,Netherlands,4,2,5
+1920,Summer Olympics,Denmark,3,9,1
+1920,Summer Olympics,South Africa,3,4,3
+1920,Summer Olympics,Canada,3,3,3
+1920,Summer Olympics,Switzerland,2,2,7
+1920,Summer Olympics,Estonia,1,2,0
+1920,Summer Olympics,Brazil,1,1,1
+1920,Summer Olympics,Australia,0,2,1
+1920,Summer Olympics,Japan,0,2,0
+1920,Summer Olympics,Spain,0,2,0
+1920,Summer Olympics,Greece,0,1,0
+1920,Summer Olympics,Luxembourg,0,1,0
+1920,Summer Olympics,Czechoslovakia,0,0,2
+1920,Summer Olympics,New Zealand,0,0,1
+1924,Summer Olympics,United States,45,27,27
+1924,Summer Olympics,France,14,15,12
+1924,Summer Olympics,Finland,14,13,10
+1924,Summer Olympics,Great Britain,9,14,12
+1924,Summer Olympics,Italy,8,3,5
+1924,Summer Olympics,Switzerland,7,8,10
+1924,Summer Olympics,Norway,5,2,3
+1924,Summer Olympics,Sweden,4,13,12
+1924,Summer Olympics,Netherlands,4,1,6
+1924,Summer Olympics,Belgium,3,7,3
+1924,Summer Olympics,Australia,3,1,2
+1924,Summer Olympics,Denmark,2,6,3
+1924,Summer Olympics,Hungary,2,4,4
+1924,Summer Olympics,Yugoslavia,2,0,0
+1924,Summer Olympics,Czechoslovakia,1,4,5
+1924,Summer Olympics,Argentina,1,3,2
+1924,Summer Olympics,Estonia,1,1,4
+1924,Summer Olympics,South Africa,1,1,1
+1924,Summer Olympics,Luxembourg,1,1,0
+1924,Summer Olympics,Greece,1,0,0
+1924,Summer Olympics,Uruguay,1,0,0
+1924,Summer Olympics,Austria,0,3,1
+1924,Summer Olympics,Canada,0,3,1
+1924,Summer Olympics,Ireland,0,1,1
+1924,Summer Olympics,Poland,0,1,1
+1924,Summer Olympics,Haiti,0,0,1
+1924,Summer Olympics,Japan,0,0,1
+1924,Summer Olympics,Monaco,0,0,1
+1924,Summer Olympics,New Zealand,0,0,1
+1924,Summer Olympics,Portugal,0,0,1
+1924,Summer Olympics,Romania,0,0,1
+1928,Summer Olympics,United States,22,18,16
+1928,Summer Olympics,Germany,11,9,19
+1928,Summer Olympics,Netherlands,8,10,5
+1928,Summer Olympics,Finland,8,8,9
+1928,Summer Olympics,France,7,12,6
+1928,Summer Olympics,Sweden,7,6,12
+1928,Summer Olympics,Italy,7,6,7
+1928,Summer Olympics,Switzerland,7,6,4
+1928,Summer Olympics,Hungary,5,5,0
+1928,Summer Olympics,Great Britain,4,11,7
+1928,Summer Olympics,Canada,4,4,7
+1928,Summer Olympics,Argentina,3,3,1
+1928,Summer Olympics,Denmark,3,2,4
+1928,Summer Olympics,Austria,3,0,1
+1928,Summer Olympics,Czechoslovakia,2,5,2
+1928,Summer Olympics,Japan,2,2,1
+1928,Summer Olympics,Poland,2,1,4
+1928,Summer Olympics,Estonia,2,1,2
+1928,Summer Olympics,Egypt,2,1,1
+1928,Summer Olympics,Australia,1,2,1
+1928,Summer Olympics,Norway,1,2,1
+1928,Summer Olympics,Yugoslavia,1,1,3
+1928,Summer Olympics,South Africa,1,0,2
+1928,Summer Olympics,India,1,0,0
+1928,Summer Olympics,Ireland,1,0,0
+1928,Summer Olympics,Luxembourg,1,0,0
+1928,Summer Olympics,New Zealand,1,0,0
+1928,Summer Olympics,Spain,1,0,0
+1928,Summer Olympics,Uruguay,1,0,0
+1928,Summer Olympics,Belgium,0,1,2
+1928,Summer Olympics,Chile,0,1,0
+1928,Summer Olympics,Haiti,0,1,0
+1928,Summer Olympics,Philippines,0,0,1
+1928,Summer Olympics,Portugal,0,0,1
+1932,Summer Olympics,United States,44,36,30
+1932,Summer Olympics,Italy,12,12,12
+1932,Summer Olympics,France,11,5,4
+1932,Summer Olympics,Sweden,10,5,9
+1932,Summer Olympics,Japan,7,7,4
+1932,Summer Olympics,Hungary,6,5,5
+1932,Summer Olympics,Germany,5,12,7
+1932,Summer Olympics,Finland,5,8,12
+1932,Summer Olympics,Great Britain,5,7,5
+1932,Summer Olympics,Poland,3,2,4
+1932,Summer Olympics,Australia,3,1,1
+1932,Summer Olympics,Argentina,3,1,0
+1932,Summer Olympics,Canada,2,5,9
+1932,Summer Olympics,Netherlands,2,5,1
+1932,Summer Olympics,South Africa,2,0,3
+1932,Summer Olympics,Ireland,2,0,0
+1932,Summer Olympics,Czechoslovakia,1,3,2
+1932,Summer Olympics,Austria,1,1,3
+1932,Summer Olympics,India,1,0,0
+1932,Summer Olympics,Denmark,0,5,3
+1932,Summer Olympics,Mexico,0,2,0
+1932,Summer Olympics,Latvia,0,1,0
+1932,Summer Olympics,New Zealand,0,1,0
+1932,Summer Olympics,Switzerland,0,1,0
+1932,Summer Olympics,Philippines,0,0,3
+1932,Summer Olympics,Belgium,0,0,1
+1932,Summer Olympics,Spain,0,0,1
+1932,Summer Olympics,Uruguay,0,0,1
+1936,Summer Olympics,Germany,38,31,32
+1936,Summer Olympics,United States,24,21,12
+1936,Summer Olympics,Hungary,10,1,5
+1936,Summer Olympics,Italy,9,13,5
+1936,Summer Olympics,Finland,8,6,6
+1936,Summer Olympics,France,7,6,6
+1936,Summer Olympics,Sweden,6,5,10
+1936,Summer Olympics,Japan,6,4,10
+1936,Summer Olympics,Netherlands,6,4,7
+1936,Summer Olympics,Austria,5,7,5
+1936,Summer Olympics,Switzerland,4,9,5
+1936,Summer Olympics,Great Britain,4,7,3
+1936,Summer Olympics,Czechoslovakia,3,5,1
+1936,Summer Olympics,Argentina,2,2,3
+1936,Summer Olympics,Estonia,2,2,3
+1936,Summer Olympics,Egypt,2,1,2
+1936,Summer Olympics,Canada,1,3,5
+1936,Summer Olympics,Norway,1,3,2
+1936,Summer Olympics,Türkiye,1,0,1
+1936,Summer Olympics,India,1,0,0
+1936,Summer Olympics,New Zealand,1,0,0
+1936,Summer Olympics,Poland,0,4,5
+1936,Summer Olympics,Denmark,0,2,3
+1936,Summer Olympics,Latvia,0,1,1
+1936,Summer Olympics,Romania,0,1,0
+1936,Summer Olympics,South Africa,0,1,0
+1936,Summer Olympics,Yugoslavia,0,1,0
+1936,Summer Olympics,Belgium,0,0,3
+1936,Summer Olympics,Mexico,0,0,3
+1936,Summer Olympics,Australia,0,0,1
+1936,Summer Olympics,Philippines,0,0,1
+1936,Summer Olympics,Portugal,0,0,1
+1948,Summer Olympics,United States,38,27,19
+1948,Summer Olympics,Sweden,17,11,18
+1948,Summer Olympics,France,11,6,15
+1948,Summer Olympics,Finland,10,8,6
+1948,Summer Olympics,Hungary,10,5,13
+1948,Summer Olympics,Italy,9,12,10
+1948,Summer Olympics,Türkiye,6,4,2
+1948,Summer Olympics,Czechoslovakia,6,2,3
+1948,Summer Olympics,Switzerland,5,12,6
+1948,Summer Olympics,Denmark,5,8,9
+1948,Summer Olympics,Netherlands,5,2,9
+1948,Summer Olympics,Great Britain,4,16,7
+1948,Summer Olympics,Argentina,3,3,1
+1948,Summer Olympics,Australia,2,6,5
+1948,Summer Olympics,Austria,2,2,4
+1948,Summer Olympics,Belgium,2,2,3
+1948,Summer Olympics,South Africa,2,2,2
+1948,Summer Olympics,Egypt,2,2,1
+1948,Summer Olympics,Mexico,2,1,2
+1948,Summer Olympics,Norway,1,3,3
+1948,Summer Olympics,Jamaica,1,2,0
+1948,Summer Olympics,Poland,1,0,1
+1948,Summer Olympics,India,1,0,0
+1948,Summer Olympics,Peru,1,0,0
+1948,Summer Olympics,Canada,0,2,2
+1948,Summer Olympics,Yugoslavia,0,2,0
+1948,Summer Olympics,Portugal,0,1,1
+1948,Summer Olympics,Uruguay,0,1,1
+1948,Summer Olympics,Cuba,0,1,0
+1948,Summer Olympics,Spain,0,1,0
+1948,Summer Olympics,Sri Lanka,0,1,0
+1948,Summer Olympics,Trinidad and Tobago,0,1,0
+1948,Summer Olympics,Panama,0,0,2
+1948,Summer Olympics,Republic of Korea,0,0,2
+1948,Summer Olympics,Brazil,0,0,1
+1948,Summer Olympics,Ireland,0,0,1
+1948,Summer Olympics,Islamic Republic of Iran,0,0,1
+1948,Summer Olympics,Puerto Rico,0,0,1
+1952,Summer Olympics,United States,40,19,17
+1952,Summer Olympics,Soviet Union,22,30,19
+1952,Summer Olympics,Hungary,16,10,16
+1952,Summer Olympics,Sweden,12,13,10
+1952,Summer Olympics,Italy,8,9,4
+1952,Summer Olympics,Czechoslovakia,7,3,3
+1952,Summer Olympics,France,6,6,6
+1952,Summer Olympics,Finland,6,3,13
+1952,Summer Olympics,Australia,6,2,3
+1952,Summer Olympics,Norway,3,2,0
+1952,Summer Olympics,Switzerland,2,6,6
+1952,Summer Olympics,South Africa,2,4,4
+1952,Summer Olympics,Jamaica,2,3,0
+1952,Summer Olympics,Belgium,2,2,0
+1952,Summer Olympics,Denmark,2,1,3
+1952,Summer Olympics,Türkiye,2,0,1
+1952,Summer Olympics,Japan,1,6,2
+1952,Summer Olympics,Great Britain,1,2,8
+1952,Summer Olympics,Argentina,1,2,2
+1952,Summer Olympics,Poland,1,2,1
+1952,Summer Olympics,Canada,1,2,0
+1952,Summer Olympics,Yugoslavia,1,2,0
+1952,Summer Olympics,Romania,1,1,2
+1952,Summer Olympics,Brazil,1,0,2
+1952,Summer Olympics,New Zealand,1,0,2
+1952,Summer Olympics,India,1,0,1
+1952,Summer Olympics,Luxembourg,1,0,0
+1952,Summer Olympics,Germany,0,7,17
+1952,Summer Olympics,Netherlands,0,5,0
+1952,Summer Olympics,Islamic Republic of Iran,0,3,4
+1952,Summer Olympics,Chile,0,2,0
+1952,Summer Olympics,Austria,0,1,1
+1952,Summer Olympics,Lebanon,0,1,1
+1952,Summer Olympics,Ireland,0,1,0
+1952,Summer Olympics,Mexico,0,1,0
+1952,Summer Olympics,Spain,0,1,0
+1952,Summer Olympics,Republic of Korea,0,0,2
+1952,Summer Olympics,Trinidad and Tobago,0,0,2
+1952,Summer Olympics,Uruguay,0,0,2
+1952,Summer Olympics,Bulgaria,0,0,1
+1952,Summer Olympics,Egypt,0,0,1
+1952,Summer Olympics,Portugal,0,0,1
+1952,Summer Olympics,Venezuela,0,0,1
+1956,Summer Olympics,Soviet Union,37,29,32
+1956,Summer Olympics,United States,32,25,17
+1956,Summer Olympics,Australia,13,8,14
+1956,Summer Olympics,Hungary,9,10,7
+1956,Summer Olympics,Italy,8,6,8
+1956,Summer Olympics,Great Britain,5,7,9
+1956,Summer Olympics,Sweden,5,5,6
+1956,Summer Olympics,Romania,5,3,5
+1956,Summer Olympics,Germany,4,10,6
+1956,Summer Olympics,Japan,4,10,5
+1956,Summer Olympics,France,4,4,6
+1956,Summer Olympics,Türkiye,3,2,2
+1956,Summer Olympics,Finland,3,1,11
+1956,Summer Olympics,Islamic Republic of Iran,2,2,1
+1956,Summer Olympics,Canada,2,1,2
+1956,Summer Olympics,New Zealand,2,0,0
+1956,Summer Olympics,Poland,1,4,4
+1956,Summer Olympics,Czechoslovakia,1,4,1
+1956,Summer Olympics,Bulgaria,1,3,1
+1956,Summer Olympics,Ireland,1,1,3
+1956,Summer Olympics,Denmark,1,1,1
+1956,Summer Olympics,Norway,1,0,2
+1956,Summer Olympics,Mexico,1,0,1
+1956,Summer Olympics,Brazil,1,0,0
+1956,Summer Olympics,India,1,0,0
+1956,Summer Olympics,Yugoslavia,0,3,0
+1956,Summer Olympics,Chile,0,2,2
+1956,Summer Olympics,Belgium,0,2,0
+1956,Summer Olympics,Argentina,0,1,1
+1956,Summer Olympics,Republic of Korea,0,1,1
+1956,Summer Olympics,Iceland,0,1,0
+1956,Summer Olympics,Pakistan,0,1,0
+1956,Summer Olympics,South Africa,0,0,4
+1956,Summer Olympics,Austria,0,0,2
+1956,Summer Olympics,Greece,0,0,1
+1956,Summer Olympics,The Bahamas,0,0,1
+1956,Summer Olympics,Uruguay,0,0,1
+1960,Summer Olympics,Soviet Union,43,29,31
+1960,Summer Olympics,United States,34,21,16
+1960,Summer Olympics,Italy,13,10,13
+1960,Summer Olympics,Germany,12,19,11
+1960,Summer Olympics,Australia,8,8,6
+1960,Summer Olympics,Türkiye,7,2,0
+1960,Summer Olympics,Hungary,6,8,7
+1960,Summer Olympics,Japan,4,7,7
+1960,Summer Olympics,Poland,4,6,11
+1960,Summer Olympics,Czechoslovakia,3,2,3
+1960,Summer Olympics,Romania,3,1,6
+1960,Summer Olympics,Great Britain,2,6,12
+1960,Summer Olympics,Denmark,2,3,1
+1960,Summer Olympics,New Zealand,2,0,1
+1960,Summer Olympics,Bulgaria,1,3,3
+1960,Summer Olympics,Sweden,1,2,3
+1960,Summer Olympics,Finland,1,1,3
+1960,Summer Olympics,Austria,1,1,0
+1960,Summer Olympics,Yugoslavia,1,1,0
+1960,Summer Olympics,Pakistan,1,0,1
+1960,Summer Olympics,Ethiopia,1,0,0
+1960,Summer Olympics,Greece,1,0,0
+1960,Summer Olympics,Norway,1,0,0
+1960,Summer Olympics,Switzerland,0,3,3
+1960,Summer Olympics,France,0,2,3
+1960,Summer Olympics,Belgium,0,2,2
+1960,Summer Olympics,Islamic Republic of Iran,0,1,3
+1960,Summer Olympics,Netherlands,0,1,2
+1960,Summer Olympics,South Africa,0,1,2
+1960,Summer Olympics,Argentina,0,1,1
+1960,Summer Olympics,United Arab Republic,0,1,1
+1960,Summer Olympics,Canada,0,1,0
+1960,Summer Olympics,Chinese Taipei,0,1,0
+1960,Summer Olympics,Ghana,0,1,0
+1960,Summer Olympics,India,0,1,0
+1960,Summer Olympics,Morocco,0,1,0
+1960,Summer Olympics,Portugal,0,1,0
+1960,Summer Olympics,Singapore,0,1,0
+1960,Summer Olympics,Brazil,0,0,2
+1960,Summer Olympics,West Indies Federation,0,0,2
+1960,Summer Olympics,Iraq,0,0,1
+1960,Summer Olympics,Mexico,0,0,1
+1960,Summer Olympics,Spain,0,0,1
+1960,Summer Olympics,Venezuela,0,0,1
+1964,Summer Olympics,United States,36,26,28
+1964,Summer Olympics,Soviet Union,30,31,35
+1964,Summer Olympics,Japan,16,5,8
+1964,Summer Olympics,Germany,10,22,18
+1964,Summer Olympics,Italy,10,10,7
+1964,Summer Olympics,Hungary,10,7,5
+1964,Summer Olympics,Poland,7,6,10
+1964,Summer Olympics,Australia,6,2,10
+1964,Summer Olympics,Czechoslovakia,5,6,3
+1964,Summer Olympics,Great Britain,4,12,2
+1964,Summer Olympics,Bulgaria,3,5,2
+1964,Summer Olympics,Finland,3,0,2
+1964,Summer Olympics,New Zealand,3,0,2
+1964,Summer Olympics,Romania,2,4,6
+1964,Summer Olympics,Netherlands,2,4,4
+1964,Summer Olympics,Türkiye,2,3,1
+1964,Summer Olympics,Sweden,2,2,4
+1964,Summer Olympics,Denmark,2,1,3
+1964,Summer Olympics,Yugoslavia,2,1,2
+1964,Summer Olympics,Belgium,2,0,1
+1964,Summer Olympics,France,1,8,6
+1964,Summer Olympics,Canada,1,2,1
+1964,Summer Olympics,Switzerland,1,2,1
+1964,Summer Olympics,Ethiopia,1,0,0
+1964,Summer Olympics,India,1,0,0
+1964,Summer Olympics,The Bahamas,1,0,0
+1964,Summer Olympics,Republic of Korea,0,2,1
+1964,Summer Olympics,Trinidad and Tobago,0,1,2
+1964,Summer Olympics,Tunisia,0,1,1
+1964,Summer Olympics,Argentina,0,1,0
+1964,Summer Olympics,Cuba,0,1,0
+1964,Summer Olympics,Pakistan,0,1,0
+1964,Summer Olympics,Philippines,0,1,0
+1964,Summer Olympics,Islamic Republic of Iran,0,0,2
+1964,Summer Olympics,Brazil,0,0,1
+1964,Summer Olympics,Ghana,0,0,1
+1964,Summer Olympics,Ireland,0,0,1
+1964,Summer Olympics,Kenya,0,0,1
+1964,Summer Olympics,Mexico,0,0,1
+1964,Summer Olympics,Nigeria,0,0,1
+1964,Summer Olympics,Uruguay,0,0,1
+1968,Summer Olympics,United States,45,28,34
+1968,Summer Olympics,Soviet Union,29,32,30
+1968,Summer Olympics,Japan,11,7,7
+1968,Summer Olympics,Hungary,10,10,12
+1968,Summer Olympics,East Germany,9,9,7
+1968,Summer Olympics,France,7,3,5
+1968,Summer Olympics,Czechoslovakia,7,2,4
+1968,Summer Olympics,West Germany,5,11,10
+1968,Summer Olympics,Australia,5,7,5
+1968,Summer Olympics,Great Britain,5,5,3
+1968,Summer Olympics,Poland,5,2,11
+1968,Summer Olympics,Romania,4,6,5
+1968,Summer Olympics,Italy,3,4,9
+1968,Summer Olympics,Kenya,3,4,2
+1968,Summer Olympics,Mexico,3,3,3
+1968,Summer Olympics,Yugoslavia,3,3,2
+1968,Summer Olympics,Netherlands,3,3,1
+1968,Summer Olympics,Bulgaria,2,4,3
+1968,Summer Olympics,Islamic Republic of Iran,2,1,2
+1968,Summer Olympics,Sweden,2,1,1
+1968,Summer Olympics,Türkiye,2,0,0
+1968,Summer Olympics,Denmark,1,4,3
+1968,Summer Olympics,Canada,1,3,1
+1968,Summer Olympics,Finland,1,2,1
+1968,Summer Olympics,Ethiopia,1,1,0
+1968,Summer Olympics,Norway,1,1,0
+1968,Summer Olympics,New Zealand,1,0,2
+1968,Summer Olympics,Tunisia,1,0,1
+1968,Summer Olympics,Pakistan,1,0,0
+1968,Summer Olympics,Venezuela,1,0,0
+1968,Summer Olympics,Cuba,0,4,0
+1968,Summer Olympics,Austria,0,2,2
+1968,Summer Olympics,Switzerland,0,1,4
+1968,Summer Olympics,Mongolia,0,1,3
+1968,Summer Olympics,Brazil,0,1,2
+1968,Summer Olympics,Belgium,0,1,1
+1968,Summer Olympics,Republic of Korea,0,1,1
+1968,Summer Olympics,Uganda,0,1,1
+1968,Summer Olympics,Cameroon,0,1,0
+1968,Summer Olympics,Jamaica,0,1,0
+1968,Summer Olympics,Argentina,0,0,2
+1968,Summer Olympics,Chinese Taipei,0,0,1
+1968,Summer Olympics,Greece,0,0,1
+1968,Summer Olympics,India,0,0,1
+1972,Summer Olympics,Soviet Union,50,27,22
+1972,Summer Olympics,United States,33,31,30
+1972,Summer Olympics,East Germany,20,23,23
+1972,Summer Olympics,West Germany,13,11,16
+1972,Summer Olympics,Japan,13,8,8
+1972,Summer Olympics,Australia,8,7,2
+1972,Summer Olympics,Poland,7,5,9
+1972,Summer Olympics,Hungary,6,13,16
+1972,Summer Olympics,Bulgaria,6,10,5
+1972,Summer Olympics,Italy,5,3,10
+1972,Summer Olympics,Sweden,4,6,6
+1972,Summer Olympics,Great Britain,4,5,9
+1972,Summer Olympics,Romania,3,6,7
+1972,Summer Olympics,Cuba,3,1,4
+1972,Summer Olympics,Finland,3,1,4
+1972,Summer Olympics,Netherlands,3,1,1
+1972,Summer Olympics,France,2,4,7
+1972,Summer Olympics,Czechoslovakia,2,4,2
+1972,Summer Olympics,Kenya,2,3,4
+1972,Summer Olympics,Yugoslavia,2,1,2
+1972,Summer Olympics,Norway,2,1,1
+1972,Summer Olympics,Democratic People's Republic of Korea,1,1,3
+1972,Summer Olympics,New Zealand,1,1,1
+1972,Summer Olympics,Uganda,1,1,0
+1972,Summer Olympics,Denmark,1,0,0
+1972,Summer Olympics,Switzerland,0,3,0
+1972,Summer Olympics,Canada,0,2,3
+1972,Summer Olympics,Islamic Republic of Iran,0,2,1
+1972,Summer Olympics,Belgium,0,2,0
+1972,Summer Olympics,Greece,0,2,0
+1972,Summer Olympics,Austria,0,1,2
+1972,Summer Olympics,Colombia,0,1,2
+1972,Summer Olympics,Argentina,0,1,0
+1972,Summer Olympics,Lebanon,0,1,0
+1972,Summer Olympics,Mexico,0,1,0
+1972,Summer Olympics,Mongolia,0,1,0
+1972,Summer Olympics,Pakistan,0,1,0
+1972,Summer Olympics,Republic of Korea,0,1,0
+1972,Summer Olympics,Tunisia,0,1,0
+1972,Summer Olympics,Türkiye,0,1,0
+1972,Summer Olympics,Brazil,0,0,2
+1972,Summer Olympics,Ethiopia,0,0,2
+1972,Summer Olympics,Ghana,0,0,1
+1972,Summer Olympics,India,0,0,1
+1972,Summer Olympics,Jamaica,0,0,1
+1972,Summer Olympics,Niger,0,0,1
+1972,Summer Olympics,Nigeria,0,0,1
+1972,Summer Olympics,Spain,0,0,1
+1976,Summer Olympics,Soviet Union,49,41,35
+1976,Summer Olympics,East Germany,40,25,25
+1976,Summer Olympics,United States,34,35,25
+1976,Summer Olympics,West Germany,10,12,17
+1976,Summer Olympics,Japan,9,6,10
+1976,Summer Olympics,Poland,7,6,13
+1976,Summer Olympics,Bulgaria,6,9,7
+1976,Summer Olympics,Cuba,6,4,3
+1976,Summer Olympics,Romania,4,9,14
+1976,Summer Olympics,Hungary,4,5,13
+1976,Summer Olympics,Finland,4,2,0
+1976,Summer Olympics,Sweden,4,1,0
+1976,Summer Olympics,Great Britain,3,5,5
+1976,Summer Olympics,Italy,2,7,4
+1976,Summer Olympics,France,2,3,4
+1976,Summer Olympics,Yugoslavia,2,3,3
+1976,Summer Olympics,Czechoslovakia,2,2,4
+1976,Summer Olympics,New Zealand,2,1,1
+1976,Summer Olympics,Republic of Korea,1,1,4
+1976,Summer Olympics,Switzerland,1,1,2
+1976,Summer Olympics,Democratic People's Republic of Korea,1,1,0
+1976,Summer Olympics,Jamaica,1,1,0
+1976,Summer Olympics,Norway,1,1,0
+1976,Summer Olympics,Denmark,1,0,2
+1976,Summer Olympics,Mexico,1,0,1
+1976,Summer Olympics,Trinidad and Tobago,1,0,0
+1976,Summer Olympics,Canada,0,5,6
+1976,Summer Olympics,Belgium,0,3,3
+1976,Summer Olympics,Netherlands,0,2,3
+1976,Summer Olympics,Portugal,0,2,0
+1976,Summer Olympics,Spain,0,2,0
+1976,Summer Olympics,Australia,0,1,4
+1976,Summer Olympics,Islamic Republic of Iran,0,1,1
+1976,Summer Olympics,Mongolia,0,1,0
+1976,Summer Olympics,Venezuela,0,1,0
+1976,Summer Olympics,Brazil,0,0,2
+1976,Summer Olympics,Austria,0,0,1
+1976,Summer Olympics,Bermuda,0,0,1
+1976,Summer Olympics,Pakistan,0,0,1
+1976,Summer Olympics,Puerto Rico,0,0,1
+1976,Summer Olympics,Thailand,0,0,1
+1980,Summer Olympics,Soviet Union,80,69,46
+1980,Summer Olympics,East Germany,47,37,42
+1980,Summer Olympics,Bulgaria,8,16,17
+1980,Summer Olympics,Cuba,8,7,5
+1980,Summer Olympics,Italy,8,3,4
+1980,Summer Olympics,Hungary,7,10,15
+1980,Summer Olympics,Romania,6,6,13
+1980,Summer Olympics,France,6,5,3
+1980,Summer Olympics,Great Britain,5,7,9
+1980,Summer Olympics,Poland,3,14,15
+1980,Summer Olympics,Sweden,3,3,6
+1980,Summer Olympics,Finland,3,1,4
+1980,Summer Olympics,Czechoslovakia,2,3,9
+1980,Summer Olympics,Yugoslavia,2,3,4
+1980,Summer Olympics,Australia,2,2,5
+1980,Summer Olympics,Denmark,2,1,2
+1980,Summer Olympics,Brazil,2,0,2
+1980,Summer Olympics,Ethiopia,2,0,2
+1980,Summer Olympics,Switzerland,2,0,0
+1980,Summer Olympics,Spain,1,3,2
+1980,Summer Olympics,Austria,1,2,1
+1980,Summer Olympics,Greece,1,0,2
+1980,Summer Olympics,Belgium,1,0,0
+1980,Summer Olympics,India,1,0,0
+1980,Summer Olympics,Zimbabwe,1,0,0
+1980,Summer Olympics,Democratic People's Republic of Korea,0,3,2
+1980,Summer Olympics,Mongolia,0,2,2
+1980,Summer Olympics,United Republic of Tanzania,0,2,0
+1980,Summer Olympics,Mexico,0,1,3
+1980,Summer Olympics,Netherlands,0,1,2
+1980,Summer Olympics,Ireland,0,1,1
+1980,Summer Olympics,Uganda,0,1,0
+1980,Summer Olympics,Venezuela,0,1,0
+1980,Summer Olympics,Jamaica,0,0,3
+1980,Summer Olympics,Guyana,0,0,1
+1980,Summer Olympics,Lebanon,0,0,1
+1984,Summer Olympics,United States,83,61,30
+1984,Summer Olympics,Romania,20,16,17
+1984,Summer Olympics,West Germany,17,19,23
+1984,Summer Olympics,People's Republic of China,15,8,9
+1984,Summer Olympics,Italy,14,6,12
+1984,Summer Olympics,Canada,10,18,16
+1984,Summer Olympics,Japan,10,8,14
+1984,Summer Olympics,New Zealand,8,1,2
+1984,Summer Olympics,Yugoslavia,7,4,7
+1984,Summer Olympics,Republic of Korea,6,6,7
+1984,Summer Olympics,Great Britain,5,11,21
+1984,Summer Olympics,France,5,7,16
+1984,Summer Olympics,Netherlands,5,2,6
+1984,Summer Olympics,Australia,4,8,12
+1984,Summer Olympics,Finland,4,2,6
+1984,Summer Olympics,Sweden,2,11,6
+1984,Summer Olympics,Mexico,2,3,1
+1984,Summer Olympics,Morocco,2,0,0
+1984,Summer Olympics,Brazil,1,5,2
+1984,Summer Olympics,Spain,1,2,2
+1984,Summer Olympics,Belgium,1,1,2
+1984,Summer Olympics,Austria,1,1,1
+1984,Summer Olympics,Kenya,1,0,2
+1984,Summer Olympics,Portugal,1,0,2
+1984,Summer Olympics,Pakistan,1,0,0
+1984,Summer Olympics,Switzerland,0,4,4
+1984,Summer Olympics,Denmark,0,3,3
+1984,Summer Olympics,Jamaica,0,1,2
+1984,Summer Olympics,Norway,0,1,2
+1984,Summer Olympics,Greece,0,1,1
+1984,Summer Olympics,Nigeria,0,1,1
+1984,Summer Olympics,Puerto Rico,0,1,1
+1984,Summer Olympics,Colombia,0,1,0
+1984,Summer Olympics,Côte d'Ivoire,0,1,0
+1984,Summer Olympics,Egypt,0,1,0
+1984,Summer Olympics,Ireland,0,1,0
+1984,Summer Olympics,Peru,0,1,0
+1984,Summer Olympics,Syrian Arab Republic,0,1,0
+1984,Summer Olympics,Thailand,0,1,0
+1984,Summer Olympics,Türkiye,0,0,3
+1984,Summer Olympics,Venezuela,0,0,3
+1984,Summer Olympics,Algeria,0,0,2
+1984,Summer Olympics,Cameroon,0,0,1
+1984,Summer Olympics,Chinese Taipei,0,0,1
+1984,Summer Olympics,Dominican Republic,0,0,1
+1984,Summer Olympics,Iceland,0,0,1
+1984,Summer Olympics,Zambia,0,0,1
+1988,Summer Olympics,Soviet Union,55,31,46
+1988,Summer Olympics,East Germany,37,35,30
+1988,Summer Olympics,United States,36,31,27
+1988,Summer Olympics,Republic of Korea,12,10,11
+1988,Summer Olympics,West Germany,11,14,15
+1988,Summer Olympics,Hungary,11,6,6
+1988,Summer Olympics,Bulgaria,10,12,13
+1988,Summer Olympics,Romania,7,11,6
+1988,Summer Olympics,France,6,4,6
+1988,Summer Olympics,Italy,6,4,4
+1988,Summer Olympics,People's Republic of China,5,11,12
+1988,Summer Olympics,Great Britain,5,10,9
+1988,Summer Olympics,Kenya,5,2,2
+1988,Summer Olympics,Japan,4,3,7
+1988,Summer Olympics,Australia,3,6,5
+1988,Summer Olympics,Yugoslavia,3,4,5
+1988,Summer Olympics,Czechoslovakia,3,3,2
+1988,Summer Olympics,New Zealand,3,2,8
+1988,Summer Olympics,Canada,3,2,5
+1988,Summer Olympics,Poland,2,5,9
+1988,Summer Olympics,Norway,2,3,0
+1988,Summer Olympics,Netherlands,2,2,5
+1988,Summer Olympics,Denmark,2,1,1
+1988,Summer Olympics,Brazil,1,2,3
+1988,Summer Olympics,Finland,1,1,2
+1988,Summer Olympics,Spain,1,1,2
+1988,Summer Olympics,Türkiye,1,1,0
+1988,Summer Olympics,Morocco,1,0,2
+1988,Summer Olympics,Austria,1,0,0
+1988,Summer Olympics,Portugal,1,0,0
+1988,Summer Olympics,Suriname,1,0,0
+1988,Summer Olympics,Sweden,0,4,7
+1988,Summer Olympics,Switzerland,0,2,2
+1988,Summer Olympics,Jamaica,0,2,0
+1988,Summer Olympics,Argentina,0,1,1
+1988,Summer Olympics,Chile,0,1,0
+1988,Summer Olympics,Costa Rica,0,1,0
+1988,Summer Olympics,Indonesia,0,1,0
+1988,Summer Olympics,Islamic Republic of Iran,0,1,0
+1988,Summer Olympics,Netherlands Antilles,0,1,0
+1988,Summer Olympics,Peru,0,1,0
+1988,Summer Olympics,Senegal,0,1,0
+1988,Summer Olympics,United States Virgin Islands,0,1,0
+1988,Summer Olympics,Belgium,0,0,2
+1988,Summer Olympics,Mexico,0,0,2
+1988,Summer Olympics,Colombia,0,0,1
+1988,Summer Olympics,Djibouti,0,0,1
+1988,Summer Olympics,Greece,0,0,1
+1988,Summer Olympics,Mongolia,0,0,1
+1988,Summer Olympics,Pakistan,0,0,1
+1988,Summer Olympics,Philippines,0,0,1
+1988,Summer Olympics,Thailand,0,0,1
+1992,Summer Olympics,Unified Team,45,38,29
+1992,Summer Olympics,United States,37,34,37
+1992,Summer Olympics,Germany,33,21,28
+1992,Summer Olympics,People's Republic of China,16,22,16
+1992,Summer Olympics,Cuba,14,6,11
+1992,Summer Olympics,Spain,13,7,2
+1992,Summer Olympics,Republic of Korea,12,5,12
+1992,Summer Olympics,Hungary,11,12,7
+1992,Summer Olympics,France,8,5,16
+1992,Summer Olympics,Australia,7,9,11
+1992,Summer Olympics,Canada,7,4,7
+1992,Summer Olympics,Italy,6,5,8
+1992,Summer Olympics,Great Britain,5,3,12
+1992,Summer Olympics,Romania,4,6,8
+1992,Summer Olympics,Czechoslovakia,4,2,1
+1992,Summer Olympics,Democratic People's Republic of Korea,4,0,5
+1992,Summer Olympics,Japan,3,8,11
+1992,Summer Olympics,Bulgaria,3,7,6
+1992,Summer Olympics,Poland,3,6,10
+1992,Summer Olympics,Netherlands,2,6,7
+1992,Summer Olympics,Kenya,2,4,2
+1992,Summer Olympics,Norway,2,4,1
+1992,Summer Olympics,Türkiye,2,2,2
+1992,Summer Olympics,Indonesia,2,2,1
+1992,Summer Olympics,Brazil,2,1,0
+1992,Summer Olympics,Greece,2,0,0
+1992,Summer Olympics,Sweden,1,7,4
+1992,Summer Olympics,New Zealand,1,4,5
+1992,Summer Olympics,Finland,1,2,2
+1992,Summer Olympics,Denmark,1,1,4
+1992,Summer Olympics,Morocco,1,1,1
+1992,Summer Olympics,Ireland,1,1,0
+1992,Summer Olympics,Ethiopia,1,0,2
+1992,Summer Olympics,Algeria,1,0,1
+1992,Summer Olympics,Estonia,1,0,1
+1992,Summer Olympics,Lithuania,1,0,1
+1992,Summer Olympics,Switzerland,1,0,0
+1992,Summer Olympics,Jamaica,0,3,1
+1992,Summer Olympics,Nigeria,0,3,1
+1992,Summer Olympics,Latvia,0,2,1
+1992,Summer Olympics,Austria,0,2,0
+1992,Summer Olympics,Namibia,0,2,0
+1992,Summer Olympics,South Africa,0,2,0
+1992,Summer Olympics,Belgium,0,1,2
+1992,Summer Olympics,Croatia,0,1,2
+1992,Summer Olympics,Independent Olympic Athletes,0,1,2
+1992,Summer Olympics,Islamic Republic of Iran,0,1,2
+1992,Summer Olympics,Israel,0,1,1
+1992,Summer Olympics,Chinese Taipei,0,1,0
+1992,Summer Olympics,Mexico,0,1,0
+1992,Summer Olympics,Peru,0,1,0
+1992,Summer Olympics,Mongolia,0,0,2
+1992,Summer Olympics,Slovenia,0,0,2
+1992,Summer Olympics,Argentina,0,0,1
+1992,Summer Olympics,Colombia,0,0,1
+1992,Summer Olympics,Ghana,0,0,1
+1992,Summer Olympics,Malaysia,0,0,1
+1992,Summer Olympics,Pakistan,0,0,1
+1992,Summer Olympics,Philippines,0,0,1
+1992,Summer Olympics,Puerto Rico,0,0,1
+1992,Summer Olympics,Qatar,0,0,1
+1992,Summer Olympics,Suriname,0,0,1
+1992,Summer Olympics,Thailand,0,0,1
+1992,Summer Olympics,The Bahamas,0,0,1
+1996,Summer Olympics,United States,44,32,25
+1996,Summer Olympics,Russian Federation,26,21,16
+1996,Summer Olympics,Germany,20,18,27
+1996,Summer Olympics,People's Republic of China,16,22,12
+1996,Summer Olympics,France,15,7,15
+1996,Summer Olympics,Italy,13,10,12
+1996,Summer Olympics,Australia,9,9,23
+1996,Summer Olympics,Cuba,9,8,8
+1996,Summer Olympics,Ukraine,9,2,12
+1996,Summer Olympics,Republic of Korea,7,15,5
+1996,Summer Olympics,Poland,7,5,5
+1996,Summer Olympics,Hungary,7,4,10
+1996,Summer Olympics,Spain,5,6,6
+1996,Summer Olympics,Romania,4,7,9
+1996,Summer Olympics,Netherlands,4,5,10
+1996,Summer Olympics,Greece,4,4,0
+1996,Summer Olympics,Czechia,4,3,4
+1996,Summer Olympics,Switzerland,4,3,0
+1996,Summer Olympics,Denmark,4,1,1
+1996,Summer Olympics,Türkiye,4,1,1
+1996,Summer Olympics,Canada,3,11,8
+1996,Summer Olympics,Bulgaria,3,7,5
+1996,Summer Olympics,Japan,3,6,5
+1996,Summer Olympics,Kazakhstan,3,4,4
+1996,Summer Olympics,Brazil,3,3,9
+1996,Summer Olympics,New Zealand,3,2,1
+1996,Summer Olympics,South Africa,3,1,1
+1996,Summer Olympics,Ireland,3,0,1
+1996,Summer Olympics,Sweden,2,4,2
+1996,Summer Olympics,Norway,2,2,3
+1996,Summer Olympics,Belgium,2,2,2
+1996,Summer Olympics,Nigeria,2,1,3
+1996,Summer Olympics,Democratic People's Republic of Korea,2,1,2
+1996,Summer Olympics,Algeria,2,0,1
+1996,Summer Olympics,Ethiopia,2,0,1
+1996,Summer Olympics,Great Britain,1,8,6
+1996,Summer Olympics,Belarus,1,6,8
+1996,Summer Olympics,Kenya,1,4,3
+1996,Summer Olympics,Jamaica,1,3,2
+1996,Summer Olympics,Finland,1,2,1
+1996,Summer Olympics,Indonesia,1,1,2
+1996,Summer Olympics,Serbia and Montenegro,1,1,2
+1996,Summer Olympics,Islamic Republic of Iran,1,1,1
+1996,Summer Olympics,Slovakia,1,1,1
+1996,Summer Olympics,Armenia,1,1,0
+1996,Summer Olympics,Croatia,1,1,0
+1996,Summer Olympics,Portugal,1,0,1
+1996,Summer Olympics,Thailand,1,0,1
+1996,Summer Olympics,Burundi,1,0,0
+1996,Summer Olympics,Costa Rica,1,0,0
+1996,Summer Olympics,Ecuador,1,0,0
+1996,Summer Olympics,"Hong Kong, China",1,0,0
+1996,Summer Olympics,Syrian Arab Republic,1,0,0
+1996,Summer Olympics,Argentina,0,2,1
+1996,Summer Olympics,Namibia,0,2,0
+1996,Summer Olympics,Slovenia,0,2,0
+1996,Summer Olympics,Austria,0,1,2
+1996,Summer Olympics,Malaysia,0,1,1
+1996,Summer Olympics,Republic of Moldova,0,1,1
+1996,Summer Olympics,Uzbekistan,0,1,1
+1996,Summer Olympics,Azerbaijan,0,1,0
+1996,Summer Olympics,Chinese Taipei,0,1,0
+1996,Summer Olympics,Latvia,0,1,0
+1996,Summer Olympics,Philippines,0,1,0
+1996,Summer Olympics,The Bahamas,0,1,0
+1996,Summer Olympics,Tonga,0,1,0
+1996,Summer Olympics,Zambia,0,1,0
+1996,Summer Olympics,Georgia,0,0,2
+1996,Summer Olympics,Morocco,0,0,2
+1996,Summer Olympics,Trinidad and Tobago,0,0,2
+1996,Summer Olympics,India,0,0,1
+1996,Summer Olympics,Israel,0,0,1
+1996,Summer Olympics,Lithuania,0,0,1
+1996,Summer Olympics,Mexico,0,0,1
+1996,Summer Olympics,Mongolia,0,0,1
+1996,Summer Olympics,Mozambique,0,0,1
+1996,Summer Olympics,Puerto Rico,0,0,1
+1996,Summer Olympics,Tunisia,0,0,1
+1996,Summer Olympics,Uganda,0,0,1
+2000,Summer Olympics,United States,37,24,32
+2000,Summer Olympics,Russian Federation,32,28,29
+2000,Summer Olympics,People's Republic of China,28,16,14
+2000,Summer Olympics,Australia,16,25,17
+2000,Summer Olympics,Germany,13,17,26
+2000,Summer Olympics,France,13,14,11
+2000,Summer Olympics,Italy,13,8,13
+2000,Summer Olympics,Netherlands,12,9,4
+2000,Summer Olympics,Cuba,11,11,7
+2000,Summer Olympics,Great Britain,11,10,7
+2000,Summer Olympics,Romania,11,6,9
+2000,Summer Olympics,Republic of Korea,8,10,10
+2000,Summer Olympics,Hungary,8,6,3
+2000,Summer Olympics,Poland,6,5,3
+2000,Summer Olympics,Japan,5,8,5
+2000,Summer Olympics,Bulgaria,5,6,2
+2000,Summer Olympics,Greece,4,6,3
+2000,Summer Olympics,Sweden,4,5,3
+2000,Summer Olympics,Norway,4,3,3
+2000,Summer Olympics,Ethiopia,4,1,3
+2000,Summer Olympics,Ukraine,3,10,10
+2000,Summer Olympics,Kazakhstan,3,4,0
+2000,Summer Olympics,Belarus,3,3,11
+2000,Summer Olympics,Canada,3,3,8
+2000,Summer Olympics,Spain,3,3,5
+2000,Summer Olympics,Türkiye,3,0,2
+2000,Summer Olympics,Islamic Republic of Iran,3,0,1
+2000,Summer Olympics,Czechia,2,3,3
+2000,Summer Olympics,Kenya,2,3,2
+2000,Summer Olympics,Denmark,2,3,1
+2000,Summer Olympics,Finland,2,1,1
+2000,Summer Olympics,Austria,2,1,0
+2000,Summer Olympics,Lithuania,2,0,3
+2000,Summer Olympics,Azerbaijan,2,0,1
+2000,Summer Olympics,The Bahamas,2,0,1
+2000,Summer Olympics,Slovenia,2,0,0
+2000,Summer Olympics,Switzerland,1,6,2
+2000,Summer Olympics,Indonesia,1,3,2
+2000,Summer Olympics,Slovakia,1,3,1
+2000,Summer Olympics,Mexico,1,2,3
+2000,Summer Olympics,Nigeria,1,2,0
+2000,Summer Olympics,Algeria,1,1,3
+2000,Summer Olympics,Uzbekistan,1,1,2
+2000,Summer Olympics,Latvia,1,1,1
+2000,Summer Olympics,Serbia and Montenegro,1,1,1
+2000,Summer Olympics,New Zealand,1,0,3
+2000,Summer Olympics,Estonia,1,0,2
+2000,Summer Olympics,Thailand,1,0,2
+2000,Summer Olympics,Croatia,1,0,1
+2000,Summer Olympics,Cameroon,1,0,0
+2000,Summer Olympics,Colombia,1,0,0
+2000,Summer Olympics,Mozambique,1,0,0
+2000,Summer Olympics,Brazil,0,6,6
+2000,Summer Olympics,Jamaica,0,6,3
+2000,Summer Olympics,Belgium,0,2,3
+2000,Summer Olympics,South Africa,0,2,3
+2000,Summer Olympics,Argentina,0,2,2
+2000,Summer Olympics,Chinese Taipei,0,1,4
+2000,Summer Olympics,Morocco,0,1,4
+2000,Summer Olympics,Democratic People's Republic of Korea,0,1,3
+2000,Summer Olympics,Kingdom of Saudi Arabia,0,1,1
+2000,Summer Olympics,Republic of Moldova,0,1,1
+2000,Summer Olympics,Trinidad and Tobago,0,1,1
+2000,Summer Olympics,Ireland,0,1,0
+2000,Summer Olympics,Sri Lanka,0,1,0
+2000,Summer Olympics,Uruguay,0,1,0
+2000,Summer Olympics,Vietnam,0,1,0
+2000,Summer Olympics,Georgia,0,0,6
+2000,Summer Olympics,Costa Rica,0,0,2
+2000,Summer Olympics,Portugal,0,0,2
+2000,Summer Olympics,Armenia,0,0,1
+2000,Summer Olympics,Barbados,0,0,1
+2000,Summer Olympics,Chile,0,0,1
+2000,Summer Olympics,Iceland,0,0,1
+2000,Summer Olympics,India,0,0,1
+2000,Summer Olympics,Israel,0,0,1
+2000,Summer Olympics,Kuwait,0,0,1
+2000,Summer Olympics,Kyrgyzstan,0,0,1
+2000,Summer Olympics,North Macedonia,0,0,1
+2000,Summer Olympics,Qatar,0,0,1
+2004,Summer Olympics,United States,36,39,26
+2004,Summer Olympics,People's Republic of China,32,17,14
+2004,Summer Olympics,Russian Federation,28,26,36
+2004,Summer Olympics,Australia,17,16,17
+2004,Summer Olympics,Japan,16,9,12
+2004,Summer Olympics,Germany,13,16,20
+2004,Summer Olympics,France,11,9,13
+2004,Summer Olympics,Italy,10,11,11
+2004,Summer Olympics,Republic of Korea,9,12,9
+2004,Summer Olympics,Great Britain,9,9,12
+2004,Summer Olympics,Cuba,9,7,11
+2004,Summer Olympics,Hungary,8,6,3
+2004,Summer Olympics,Ukraine,8,5,9
+2004,Summer Olympics,Romania,8,5,6
+2004,Summer Olympics,Greece,6,6,4
+2004,Summer Olympics,Brazil,5,2,3
+2004,Summer Olympics,Norway,5,0,1
+2004,Summer Olympics,Netherlands,4,9,9
+2004,Summer Olympics,Sweden,4,2,1
+2004,Summer Olympics,Spain,3,11,6
+2004,Summer Olympics,Canada,3,6,3
+2004,Summer Olympics,Türkiye,3,3,4
+2004,Summer Olympics,Poland,3,2,5
+2004,Summer Olympics,New Zealand,3,2,0
+2004,Summer Olympics,Thailand,3,1,4
+2004,Summer Olympics,Belarus,2,5,6
+2004,Summer Olympics,Austria,2,4,1
+2004,Summer Olympics,Ethiopia,2,3,2
+2004,Summer Olympics,Islamic Republic of Iran,2,2,2
+2004,Summer Olympics,Slovakia,2,2,2
+2004,Summer Olympics,Chinese Taipei,2,2,1
+2004,Summer Olympics,Georgia,2,2,0
+2004,Summer Olympics,Bulgaria,2,1,9
+2004,Summer Olympics,Denmark,2,1,5
+2004,Summer Olympics,Jamaica,2,1,2
+2004,Summer Olympics,Uzbekistan,2,1,2
+2004,Summer Olympics,Morocco,2,1,0
+2004,Summer Olympics,Argentina,2,0,4
+2004,Summer Olympics,Chile,2,0,1
+2004,Summer Olympics,Kazakhstan,1,4,3
+2004,Summer Olympics,Kenya,1,4,2
+2004,Summer Olympics,Czechia,1,3,5
+2004,Summer Olympics,South Africa,1,3,2
+2004,Summer Olympics,Croatia,1,2,2
+2004,Summer Olympics,Lithuania,1,2,0
+2004,Summer Olympics,Egypt,1,1,3
+2004,Summer Olympics,Switzerland,1,1,3
+2004,Summer Olympics,Indonesia,1,1,2
+2004,Summer Olympics,Zimbabwe,1,1,1
+2004,Summer Olympics,Azerbaijan,1,0,4
+2004,Summer Olympics,Belgium,1,0,2
+2004,Summer Olympics,Israel,1,0,1
+2004,Summer Olympics,The Bahamas,1,0,1
+2004,Summer Olympics,Cameroon,1,0,0
+2004,Summer Olympics,Dominican Republic,1,0,0
+2004,Summer Olympics,United Arab Emirates,1,0,0
+2004,Summer Olympics,Democratic People's Republic of Korea,0,4,1
+2004,Summer Olympics,Latvia,0,4,0
+2004,Summer Olympics,Mexico,0,3,1
+2004,Summer Olympics,Portugal,0,2,1
+2004,Summer Olympics,Finland,0,2,0
+2004,Summer Olympics,Serbia and Montenegro,0,2,0
+2004,Summer Olympics,Slovenia,0,1,3
+2004,Summer Olympics,Estonia,0,1,2
+2004,Summer Olympics,"Hong Kong, China",0,1,0
+2004,Summer Olympics,India,0,1,0
+2004,Summer Olympics,Paraguay,0,1,0
+2004,Summer Olympics,Colombia,0,0,2
+2004,Summer Olympics,Nigeria,0,0,2
+2004,Summer Olympics,Venezuela,0,0,2
+2004,Summer Olympics,Eritrea,0,0,1
+2004,Summer Olympics,Mongolia,0,0,1
+2004,Summer Olympics,Syrian Arab Republic,0,0,1
+2004,Summer Olympics,Trinidad and Tobago,0,0,1
+2008,Summer Olympics,People's Republic of China,48,22,30
+2008,Summer Olympics,United States,36,39,37
+2008,Summer Olympics,Russian Federation,24,13,23
+2008,Summer Olympics,Great Britain,19,13,19
+2008,Summer Olympics,Germany,16,11,14
+2008,Summer Olympics,Australia,14,15,17
+2008,Summer Olympics,Republic of Korea,13,11,8
+2008,Summer Olympics,Japan,9,8,8
+2008,Summer Olympics,Italy,8,9,10
+2008,Summer Olympics,France,7,16,20
+2008,Summer Olympics,Netherlands,7,5,4
+2008,Summer Olympics,Ukraine,7,4,11
+2008,Summer Olympics,Kenya,6,4,6
+2008,Summer Olympics,Spain,5,11,3
+2008,Summer Olympics,Jamaica,5,4,2
+2008,Summer Olympics,Poland,4,5,2
+2008,Summer Olympics,Ethiopia,4,2,1
+2008,Summer Olympics,Romania,4,1,4
+2008,Summer Olympics,Cuba,3,10,17
+2008,Summer Olympics,Canada,3,9,8
+2008,Summer Olympics,Hungary,3,5,2
+2008,Summer Olympics,Norway,3,5,1
+2008,Summer Olympics,Brazil,3,4,10
+2008,Summer Olympics,Belarus,3,4,7
+2008,Summer Olympics,Czechia,3,3,1
+2008,Summer Olympics,Slovakia,3,3,0
+2008,Summer Olympics,New Zealand,3,2,4
+2008,Summer Olympics,Georgia,3,2,2
+2008,Summer Olympics,Kazakhstan,2,3,4
+2008,Summer Olympics,Denmark,2,2,3
+2008,Summer Olympics,Democratic People's Republic of Korea,2,2,2
+2008,Summer Olympics,Thailand,2,2,2
+2008,Summer Olympics,Mongolia,2,2,0
+2008,Summer Olympics,Switzerland,2,1,4
+2008,Summer Olympics,Argentina,2,0,4
+2008,Summer Olympics,Mexico,2,0,2
+2008,Summer Olympics,Belgium,2,0,0
+2008,Summer Olympics,Zimbabwe,1,3,0
+2008,Summer Olympics,Slovenia,1,2,2
+2008,Summer Olympics,Azerbaijan,1,1,4
+2008,Summer Olympics,Indonesia,1,1,4
+2008,Summer Olympics,Bulgaria,1,1,3
+2008,Summer Olympics,Türkiye,1,1,3
+2008,Summer Olympics,Chinese Taipei,1,1,2
+2008,Summer Olympics,Finland,1,1,2
+2008,Summer Olympics,Latvia,1,1,1
+2008,Summer Olympics,Dominican Republic,1,1,0
+2008,Summer Olympics,Estonia,1,1,0
+2008,Summer Olympics,Portugal,1,1,0
+2008,Summer Olympics,Trinidad and Tobago,1,1,0
+2008,Summer Olympics,India,1,0,2
+2008,Summer Olympics,Islamic Republic of Iran,1,0,1
+2008,Summer Olympics,Cameroon,1,0,0
+2008,Summer Olympics,Panama,1,0,0
+2008,Summer Olympics,Tunisia,1,0,0
+2008,Summer Olympics,Sweden,0,4,1
+2008,Summer Olympics,Lithuania,0,3,2
+2008,Summer Olympics,Nigeria,0,3,2
+2008,Summer Olympics,Croatia,0,2,3
+2008,Summer Olympics,Colombia,0,2,1
+2008,Summer Olympics,Greece,0,2,1
+2008,Summer Olympics,Armenia,0,1,4
+2008,Summer Olympics,Uzbekistan,0,1,3
+2008,Summer Olympics,Austria,0,1,2
+2008,Summer Olympics,Ireland,0,1,2
+2008,Summer Olympics,Kyrgyzstan,0,1,2
+2008,Summer Olympics,Serbia,0,1,2
+2008,Summer Olympics,Algeria,0,1,1
+2008,Summer Olympics,Morocco,0,1,1
+2008,Summer Olympics,Tajikistan,0,1,1
+2008,Summer Olympics,The Bahamas,0,1,1
+2008,Summer Olympics,Chile,0,1,0
+2008,Summer Olympics,Ecuador,0,1,0
+2008,Summer Olympics,Iceland,0,1,0
+2008,Summer Olympics,Malaysia,0,1,0
+2008,Summer Olympics,Samoa,0,1,0
+2008,Summer Olympics,Singapore,0,1,0
+2008,Summer Olympics,South Africa,0,1,0
+2008,Summer Olympics,Sudan,0,1,0
+2008,Summer Olympics,Vietnam,0,1,0
+2008,Summer Olympics,Egypt,0,0,2
+2008,Summer Olympics,Afghanistan,0,0,1
+2008,Summer Olympics,Israel,0,0,1
+2008,Summer Olympics,Mauritius,0,0,1
+2008,Summer Olympics,Republic of Moldova,0,0,1
+2008,Summer Olympics,Togo,0,0,1
+2008,Summer Olympics,Venezuela,0,0,1
+2012,Summer Olympics,United States,48,26,30
+2012,Summer Olympics,People's Republic of China,39,31,22
+2012,Summer Olympics,Great Britain,29,18,18
+2012,Summer Olympics,Russian Federation,18,21,26
+2012,Summer Olympics,Republic of Korea,13,9,8
+2012,Summer Olympics,Germany,11,20,13
+2012,Summer Olympics,France,11,11,13
+2012,Summer Olympics,Australia,8,15,12
+2012,Summer Olympics,Italy,8,9,11
+2012,Summer Olympics,Hungary,8,4,6
+2012,Summer Olympics,Japan,7,14,17
+2012,Summer Olympics,Islamic Republic of Iran,7,5,1
+2012,Summer Olympics,Netherlands,6,6,8
+2012,Summer Olympics,New Zealand,6,2,5
+2012,Summer Olympics,Ukraine,5,4,10
+2012,Summer Olympics,Cuba,5,3,7
+2012,Summer Olympics,Spain,4,10,6
+2012,Summer Olympics,Jamaica,4,5,4
+2012,Summer Olympics,Czechia,4,4,3
+2012,Summer Olympics,South Africa,4,1,1
+2012,Summer Olympics,Democratic People's Republic of Korea,4,0,3
+2012,Summer Olympics,Brazil,3,5,9
+2012,Summer Olympics,Poland,3,2,6
+2012,Summer Olympics,Ethiopia,3,2,3
+2012,Summer Olympics,Kazakhstan,3,1,7
+2012,Summer Olympics,Croatia,3,1,2
+2012,Summer Olympics,Canada,2,6,10
+2012,Summer Olympics,Belarus,2,5,3
+2012,Summer Olympics,Kenya,2,4,7
+2012,Summer Olympics,Denmark,2,4,3
+2012,Summer Olympics,Romania,2,4,1
+2012,Summer Olympics,Azerbaijan,2,2,5
+2012,Summer Olympics,Switzerland,2,2,0
+2012,Summer Olympics,Norway,2,1,1
+2012,Summer Olympics,Lithuania,2,0,3
+2012,Summer Olympics,Tunisia,2,0,1
+2012,Summer Olympics,Sweden,1,4,3
+2012,Summer Olympics,Colombia,1,3,5
+2012,Summer Olympics,Mexico,1,3,4
+2012,Summer Olympics,Georgia,1,2,3
+2012,Summer Olympics,Ireland,1,1,4
+2012,Summer Olympics,Argentina,1,1,2
+2012,Summer Olympics,Serbia,1,1,2
+2012,Summer Olympics,Slovenia,1,1,2
+2012,Summer Olympics,Trinidad and Tobago,1,1,2
+2012,Summer Olympics,Türkiye,1,1,1
+2012,Summer Olympics,Dominican Republic,1,1,0
+2012,Summer Olympics,Chinese Taipei,1,0,1
+2012,Summer Olympics,Latvia,1,0,1
+2012,Summer Olympics,Algeria,1,0,0
+2012,Summer Olympics,Bahrain,1,0,0
+2012,Summer Olympics,Grenada,1,0,0
+2012,Summer Olympics,The Bahamas,1,0,0
+2012,Summer Olympics,Uganda,1,0,0
+2012,Summer Olympics,Venezuela,1,0,0
+2012,Summer Olympics,Egypt,0,3,1
+2012,Summer Olympics,India,0,2,4
+2012,Summer Olympics,Mongolia,0,2,3
+2012,Summer Olympics,Thailand,0,2,2
+2012,Summer Olympics,Bulgaria,0,2,1
+2012,Summer Olympics,Finland,0,2,1
+2012,Summer Olympics,Indonesia,0,2,1
+2012,Summer Olympics,Slovakia,0,1,3
+2012,Summer Olympics,Belgium,0,1,2
+2012,Summer Olympics,Armenia,0,1,1
+2012,Summer Olympics,Estonia,0,1,1
+2012,Summer Olympics,Malaysia,0,1,1
+2012,Summer Olympics,Puerto Rico,0,1,1
+2012,Summer Olympics,Qatar,0,1,1
+2012,Summer Olympics,Botswana,0,1,0
+2012,Summer Olympics,Cyprus,0,1,0
+2012,Summer Olympics,Gabon,0,1,0
+2012,Summer Olympics,Guatemala,0,1,0
+2012,Summer Olympics,Montenegro,0,1,0
+2012,Summer Olympics,Portugal,0,1,0
+2012,Summer Olympics,Uzbekistan,0,0,3
+2012,Summer Olympics,Greece,0,0,2
+2012,Summer Olympics,Singapore,0,0,2
+2012,Summer Olympics,Afghanistan,0,0,1
+2012,Summer Olympics,Cameroon,0,0,1
+2012,Summer Olympics,"Hong Kong, China",0,0,1
+2012,Summer Olympics,Kingdom of Saudi Arabia,0,0,1
+2012,Summer Olympics,Kuwait,0,0,1
+2012,Summer Olympics,Morocco,0,0,1
+2012,Summer Olympics,Tajikistan,0,0,1
+2012,Summer Olympics,Vietnam,0,0,1
+2016,Summer Olympics,United States,46,37,38
+2016,Summer Olympics,Great Britain,27,23,17
+2016,Summer Olympics,People's Republic of China,26,18,26
+2016,Summer Olympics,Russian Federation,19,17,20
+2016,Summer Olympics,Germany,17,10,15
+2016,Summer Olympics,Japan,12,8,21
+2016,Summer Olympics,France,10,18,14
+2016,Summer Olympics,Republic of Korea,9,3,9
+2016,Summer Olympics,Italy,8,12,8
+2016,Summer Olympics,Australia,8,11,10
+2016,Summer Olympics,Netherlands,8,7,4
+2016,Summer Olympics,Hungary,8,3,4
+2016,Summer Olympics,Brazil,7,6,6
+2016,Summer Olympics,Spain,7,4,6
+2016,Summer Olympics,Kenya,6,6,1
+2016,Summer Olympics,Jamaica,6,3,2
+2016,Summer Olympics,Croatia,5,3,2
+2016,Summer Olympics,Cuba,5,2,4
+2016,Summer Olympics,New Zealand,4,9,5
+2016,Summer Olympics,Canada,4,3,15
+2016,Summer Olympics,Uzbekistan,4,2,7
+2016,Summer Olympics,Colombia,3,2,3
+2016,Summer Olympics,Switzerland,3,2,2
+2016,Summer Olympics,Islamic Republic of Iran,3,1,4
+2016,Summer Olympics,Greece,3,1,2
+2016,Summer Olympics,Argentina,3,1,0
+2016,Summer Olympics,Denmark,2,6,7
+2016,Summer Olympics,Sweden,2,6,3
+2016,Summer Olympics,South Africa,2,6,2
+2016,Summer Olympics,Kazakhstan,2,5,10
+2016,Summer Olympics,Ukraine,2,5,4
+2016,Summer Olympics,Serbia,2,4,2
+2016,Summer Olympics,Poland,2,3,6
+2016,Summer Olympics,Democratic People's Republic of Korea,2,3,2
+2016,Summer Olympics,Belgium,2,2,2
+2016,Summer Olympics,Thailand,2,2,2
+2016,Summer Olympics,Slovakia,2,2,0
+2016,Summer Olympics,Georgia,2,1,4
+2016,Summer Olympics,Azerbaijan,1,7,10
+2016,Summer Olympics,Belarus,1,4,4
+2016,Summer Olympics,Türkiye,1,3,4
+2016,Summer Olympics,Armenia,1,3,0
+2016,Summer Olympics,Czechia,1,2,7
+2016,Summer Olympics,Ethiopia,1,2,5
+2016,Summer Olympics,Slovenia,1,2,1
+2016,Summer Olympics,Indonesia,1,2,0
+2016,Summer Olympics,Romania,1,1,2
+2016,Summer Olympics,Bahrain,1,1,0
+2016,Summer Olympics,Vietnam,1,1,0
+2016,Summer Olympics,Chinese Taipei,1,0,2
+2016,Summer Olympics,Côte d'Ivoire,1,0,1
+2016,Summer Olympics,Independent Olympic Athletes,1,0,1
+2016,Summer Olympics,The Bahamas,1,0,1
+2016,Summer Olympics,Fiji,1,0,0
+2016,Summer Olympics,Jordan,1,0,0
+2016,Summer Olympics,Kosovo,1,0,0
+2016,Summer Olympics,Puerto Rico,1,0,0
+2016,Summer Olympics,Singapore,1,0,0
+2016,Summer Olympics,Tajikistan,1,0,0
+2016,Summer Olympics,Malaysia,0,4,1
+2016,Summer Olympics,Mexico,0,3,2
+2016,Summer Olympics,Venezuela,0,2,1
+2016,Summer Olympics,Algeria,0,2,0
+2016,Summer Olympics,Ireland,0,2,0
+2016,Summer Olympics,Lithuania,0,1,3
+2016,Summer Olympics,Bulgaria,0,1,2
+2016,Summer Olympics,India,0,1,1
+2016,Summer Olympics,Mongolia,0,1,1
+2016,Summer Olympics,Burundi,0,1,0
+2016,Summer Olympics,Grenada,0,1,0
+2016,Summer Olympics,Niger,0,1,0
+2016,Summer Olympics,Philippines,0,1,0
+2016,Summer Olympics,Qatar,0,1,0
+2016,Summer Olympics,Norway,0,0,4
+2016,Summer Olympics,Egypt,0,0,3
+2016,Summer Olympics,Tunisia,0,0,3
+2016,Summer Olympics,Israel,0,0,2
+2016,Summer Olympics,Austria,0,0,1
+2016,Summer Olympics,Dominican Republic,0,0,1
+2016,Summer Olympics,Estonia,0,0,1
+2016,Summer Olympics,Finland,0,0,1
+2016,Summer Olympics,Morocco,0,0,1
+2016,Summer Olympics,Nigeria,0,0,1
+2016,Summer Olympics,Portugal,0,0,1
+2016,Summer Olympics,Trinidad and Tobago,0,0,1
+2016,Summer Olympics,United Arab Emirates,0,0,1
+2020,Summer Olympics,United States,39,41,33
+2020,Summer Olympics,People's Republic of China,38,32,19
+2020,Summer Olympics,Japan,27,14,17
+2020,Summer Olympics,Great Britain,22,20,22
+2020,Summer Olympics,ROC,20,28,23
+2020,Summer Olympics,Australia,17,7,22
+2020,Summer Olympics,Netherlands,10,12,14
+2020,Summer Olympics,France,10,12,11
+2020,Summer Olympics,Germany,10,11,16
+2020,Summer Olympics,Italy,10,10,20
+2020,Summer Olympics,Canada,7,7,10
+2020,Summer Olympics,Brazil,7,6,8
+2020,Summer Olympics,New Zealand,7,6,7
+2020,Summer Olympics,Cuba,7,3,5
+2020,Summer Olympics,Hungary,6,7,7
+2020,Summer Olympics,Republic of Korea,6,4,10
+2020,Summer Olympics,Poland,4,5,5
+2020,Summer Olympics,Czechia,4,4,3
+2020,Summer Olympics,Kenya,4,4,2
+2020,Summer Olympics,Norway,4,2,2
+2020,Summer Olympics,Jamaica,4,1,4
+2020,Summer Olympics,Spain,3,8,6
+2020,Summer Olympics,Sweden,3,6,0
+2020,Summer Olympics,Switzerland,3,4,6
+2020,Summer Olympics,Denmark,3,4,4
+2020,Summer Olympics,Croatia,3,3,2
+2020,Summer Olympics,Islamic Republic of Iran,3,2,2
+2020,Summer Olympics,Serbia,3,1,5
+2020,Summer Olympics,Belgium,3,1,3
+2020,Summer Olympics,Bulgaria,3,1,2
+2020,Summer Olympics,Slovenia,3,1,1
+2020,Summer Olympics,Uzbekistan,3,0,2
+2020,Summer Olympics,Georgia,2,5,1
+2020,Summer Olympics,Chinese Taipei,2,4,6
+2020,Summer Olympics,Türkiye,2,2,9
+2020,Summer Olympics,Greece,2,1,1
+2020,Summer Olympics,Uganda,2,1,1
+2020,Summer Olympics,Ecuador,2,1,0
+2020,Summer Olympics,Ireland,2,0,2
+2020,Summer Olympics,Israel,2,0,2
+2020,Summer Olympics,Qatar,2,0,1
+2020,Summer Olympics,Kosovo,2,0,0
+2020,Summer Olympics,The Bahamas,2,0,0
+2020,Summer Olympics,Ukraine,1,6,12
+2020,Summer Olympics,Belarus,1,3,3
+2020,Summer Olympics,Romania,1,3,0
+2020,Summer Olympics,Venezuela,1,3,0
+2020,Summer Olympics,India,1,2,4
+2020,Summer Olympics,"Hong Kong, China",1,2,3
+2020,Summer Olympics,Philippines,1,2,1
+2020,Summer Olympics,Slovakia,1,2,1
+2020,Summer Olympics,South Africa,1,2,0
+2020,Summer Olympics,Austria,1,1,5
+2020,Summer Olympics,Egypt,1,1,4
+2020,Summer Olympics,Indonesia,1,1,3
+2020,Summer Olympics,Ethiopia,1,1,2
+2020,Summer Olympics,Portugal,1,1,2
+2020,Summer Olympics,Tunisia,1,1,0
+2020,Summer Olympics,Estonia,1,0,1
+2020,Summer Olympics,Fiji,1,0,1
+2020,Summer Olympics,Latvia,1,0,1
+2020,Summer Olympics,Thailand,1,0,1
+2020,Summer Olympics,Bermuda,1,0,0
+2020,Summer Olympics,Morocco,1,0,0
+2020,Summer Olympics,Puerto Rico,1,0,0
+2020,Summer Olympics,Colombia,0,4,1
+2020,Summer Olympics,Azerbaijan,0,3,4
+2020,Summer Olympics,Dominican Republic,0,3,2
+2020,Summer Olympics,Armenia,0,2,2
+2020,Summer Olympics,Kyrgyzstan,0,2,1
+2020,Summer Olympics,Mongolia,0,1,3
+2020,Summer Olympics,Argentina,0,1,2
+2020,Summer Olympics,San Marino,0,1,2
+2020,Summer Olympics,Jordan,0,1,1
+2020,Summer Olympics,Malaysia,0,1,1
+2020,Summer Olympics,Nigeria,0,1,1
+2020,Summer Olympics,Bahrain,0,1,0
+2020,Summer Olympics,Kingdom of Saudi Arabia,0,1,0
+2020,Summer Olympics,Lithuania,0,1,0
+2020,Summer Olympics,Namibia,0,1,0
+2020,Summer Olympics,North Macedonia,0,1,0
+2020,Summer Olympics,Turkmenistan,0,1,0
+2020,Summer Olympics,Kazakhstan,0,0,8
+2020,Summer Olympics,Mexico,0,0,4
+2020,Summer Olympics,Finland,0,0,2
+2020,Summer Olympics,Botswana,0,0,1
+2020,Summer Olympics,Burkina Faso,0,0,1
+2020,Summer Olympics,Côte d'Ivoire,0,0,1
+2020,Summer Olympics,Ghana,0,0,1
+2020,Summer Olympics,Grenada,0,0,1
+2020,Summer Olympics,Kuwait,0,0,1
+2020,Summer Olympics,Republic of Moldova,0,0,1
+2020,Summer Olympics,Syrian Arab Republic,0,0,1
+1924,Winter Olympics,Norway,4,7,6
+1924,Winter Olympics,Finland,4,4,3
+1924,Winter Olympics,Austria,2,1,0
+1924,Winter Olympics,Switzerland,2,0,1
+1924,Winter Olympics,United States,1,2,1
+1924,Winter Olympics,Great Britain,1,1,2
+1924,Winter Olympics,Sweden,1,1,0
+1924,Winter Olympics,Canada,1,0,0
+1924,Winter Olympics,Mixed team,1,0,0
+1924,Winter Olympics,France,0,0,3
+1924,Winter Olympics,Belgium,0,0,1
+1928,Winter Olympics,Norway,6,4,5
+1928,Winter Olympics,United States,2,2,2
+1928,Winter Olympics,Sweden,2,2,1
+1928,Winter Olympics,Finland,2,1,1
+1928,Winter Olympics,Canada,1,0,0
+1928,Winter Olympics,France,1,0,0
+1928,Winter Olympics,Austria,0,3,1
+1928,Winter Olympics,Belgium,0,0,1
+1928,Winter Olympics,Czechoslovakia,0,0,1
+1928,Winter Olympics,Germany,0,0,1
+1928,Winter Olympics,Great Britain,0,0,1
+1928,Winter Olympics,Switzerland,0,0,1
+1932,Winter Olympics,United States,6,4,2
+1932,Winter Olympics,Norway,3,4,3
+1932,Winter Olympics,Sweden,1,2,0
+1932,Winter Olympics,Canada,1,1,5
+1932,Winter Olympics,Finland,1,1,1
+1932,Winter Olympics,Austria,1,1,0
+1932,Winter Olympics,France,1,0,0
+1932,Winter Olympics,Switzerland,0,1,0
+1932,Winter Olympics,Germany,0,0,2
+1932,Winter Olympics,Hungary,0,0,1
+1936,Winter Olympics,Norway,7,5,3
+1936,Winter Olympics,Germany,3,3,0
+1936,Winter Olympics,Sweden,2,2,3
+1936,Winter Olympics,Finland,1,2,3
+1936,Winter Olympics,Switzerland,1,2,0
+1936,Winter Olympics,Austria,1,1,2
+1936,Winter Olympics,Great Britain,1,1,1
+1936,Winter Olympics,United States,1,0,3
+1936,Winter Olympics,Canada,0,1,0
+1936,Winter Olympics,France,0,0,1
+1936,Winter Olympics,Hungary,0,0,1
+1948,Winter Olympics,Norway,4,3,3
+1948,Winter Olympics,Sweden,4,3,3
+1948,Winter Olympics,Switzerland,3,4,3
+1948,Winter Olympics,United States,3,4,2
+1948,Winter Olympics,France,2,1,2
+1948,Winter Olympics,Canada,2,0,1
+1948,Winter Olympics,Austria,1,3,4
+1948,Winter Olympics,Finland,1,3,2
+1948,Winter Olympics,Belgium,1,1,0
+1948,Winter Olympics,Italy,1,0,0
+1948,Winter Olympics,Czechoslovakia,0,1,0
+1948,Winter Olympics,Hungary,0,1,0
+1948,Winter Olympics,Great Britain,0,0,2
+1952,Winter Olympics,Norway,7,3,6
+1952,Winter Olympics,United States,4,6,1
+1952,Winter Olympics,Finland,3,4,2
+1952,Winter Olympics,Germany,3,2,2
+1952,Winter Olympics,Austria,2,4,2
+1952,Winter Olympics,Canada,1,0,1
+1952,Winter Olympics,Italy,1,0,1
+1952,Winter Olympics,Great Britain,1,0,0
+1952,Winter Olympics,Netherlands,0,3,0
+1952,Winter Olympics,Sweden,0,0,4
+1952,Winter Olympics,Switzerland,0,0,2
+1952,Winter Olympics,France,0,0,1
+1952,Winter Olympics,Hungary,0,0,1
+1956,Winter Olympics,Soviet Union,7,3,6
+1956,Winter Olympics,Austria,4,3,4
+1956,Winter Olympics,Finland,3,3,1
+1956,Winter Olympics,Switzerland,3,2,1
+1956,Winter Olympics,Sweden,2,4,4
+1956,Winter Olympics,United States,2,3,2
+1956,Winter Olympics,Norway,2,1,1
+1956,Winter Olympics,Italy,1,2,0
+1956,Winter Olympics,Germany,1,0,1
+1956,Winter Olympics,Canada,0,1,2
+1956,Winter Olympics,Japan,0,1,0
+1956,Winter Olympics,Hungary,0,0,1
+1956,Winter Olympics,Poland,0,0,1
+1960,Winter Olympics,Soviet Union,7,5,9
+1960,Winter Olympics,Germany,4,3,1
+1960,Winter Olympics,United States,3,4,3
+1960,Winter Olympics,Norway,3,3,0
+1960,Winter Olympics,Sweden,3,2,2
+1960,Winter Olympics,Finland,2,3,3
+1960,Winter Olympics,Canada,2,1,1
+1960,Winter Olympics,Switzerland,2,0,0
+1960,Winter Olympics,Austria,1,2,3
+1960,Winter Olympics,France,1,0,2
+1960,Winter Olympics,Netherlands,0,1,1
+1960,Winter Olympics,Poland,0,1,1
+1960,Winter Olympics,Czechoslovakia,0,1,0
+1960,Winter Olympics,Italy,0,0,1
+1964,Winter Olympics,Soviet Union,11,8,6
+1964,Winter Olympics,Austria,4,5,3
+1964,Winter Olympics,Norway,3,6,6
+1964,Winter Olympics,Finland,3,4,3
+1964,Winter Olympics,France,3,4,0
+1964,Winter Olympics,Germany,3,3,3
+1964,Winter Olympics,Sweden,3,3,1
+1964,Winter Olympics,United States,1,2,4
+1964,Winter Olympics,Canada,1,1,1
+1964,Winter Olympics,Netherlands,1,1,0
+1964,Winter Olympics,Great Britain,1,0,0
+1964,Winter Olympics,Italy,0,1,3
+1964,Winter Olympics,Democratic People's Republic of Korea,0,1,0
+1964,Winter Olympics,Czechoslovakia,0,0,1
+1968,Winter Olympics,Norway,6,6,2
+1968,Winter Olympics,Soviet Union,5,5,3
+1968,Winter Olympics,France,4,3,2
+1968,Winter Olympics,Italy,4,0,0
+1968,Winter Olympics,Austria,3,4,4
+1968,Winter Olympics,Netherlands,3,3,3
+1968,Winter Olympics,Sweden,3,2,3
+1968,Winter Olympics,West Germany,2,2,3
+1968,Winter Olympics,United States,1,5,1
+1968,Winter Olympics,East Germany,1,2,2
+1968,Winter Olympics,Finland,1,2,2
+1968,Winter Olympics,Czechoslovakia,1,2,1
+1968,Winter Olympics,Canada,1,1,1
+1968,Winter Olympics,Switzerland,0,2,4
+1968,Winter Olympics,Romania,0,0,1
+1972,Winter Olympics,Soviet Union,8,5,3
+1972,Winter Olympics,East Germany,4,3,7
+1972,Winter Olympics,Switzerland,4,3,3
+1972,Winter Olympics,Netherlands,4,3,2
+1972,Winter Olympics,United States,3,2,3
+1972,Winter Olympics,West Germany,3,1,1
+1972,Winter Olympics,Norway,2,5,5
+1972,Winter Olympics,Italy,2,2,1
+1972,Winter Olympics,Austria,1,2,2
+1972,Winter Olympics,Sweden,1,1,2
+1972,Winter Olympics,Japan,1,1,1
+1972,Winter Olympics,Czechoslovakia,1,0,2
+1972,Winter Olympics,Poland,1,0,0
+1972,Winter Olympics,Spain,1,0,0
+1972,Winter Olympics,Finland,0,4,1
+1972,Winter Olympics,France,0,1,2
+1972,Winter Olympics,Canada,0,1,0
+1976,Winter Olympics,Soviet Union,13,6,8
+1976,Winter Olympics,East Germany,7,5,7
+1976,Winter Olympics,United States,3,3,4
+1976,Winter Olympics,Norway,3,3,1
+1976,Winter Olympics,West Germany,2,5,3
+1976,Winter Olympics,Finland,2,4,1
+1976,Winter Olympics,Austria,2,2,2
+1976,Winter Olympics,Switzerland,1,3,1
+1976,Winter Olympics,Netherlands,1,2,3
+1976,Winter Olympics,Italy,1,2,1
+1976,Winter Olympics,Canada,1,1,1
+1976,Winter Olympics,Great Britain,1,0,0
+1976,Winter Olympics,Czechoslovakia,0,1,0
+1976,Winter Olympics,Liechtenstein,0,0,2
+1976,Winter Olympics,Sweden,0,0,2
+1976,Winter Olympics,France,0,0,1
+1980,Winter Olympics,Soviet Union,10,6,6
+1980,Winter Olympics,East Germany,9,7,7
+1980,Winter Olympics,United States,6,4,2
+1980,Winter Olympics,Austria,3,2,2
+1980,Winter Olympics,Sweden,3,0,1
+1980,Winter Olympics,Liechtenstein,2,2,0
+1980,Winter Olympics,Finland,1,5,3
+1980,Winter Olympics,Norway,1,3,6
+1980,Winter Olympics,Netherlands,1,2,1
+1980,Winter Olympics,Switzerland,1,1,3
+1980,Winter Olympics,Great Britain,1,0,0
+1980,Winter Olympics,West Germany,0,2,3
+1980,Winter Olympics,Italy,0,2,0
+1980,Winter Olympics,Canada,0,1,1
+1980,Winter Olympics,Hungary,0,1,0
+1980,Winter Olympics,Japan,0,1,0
+1980,Winter Olympics,Bulgaria,0,0,1
+1980,Winter Olympics,Czechoslovakia,0,0,1
+1980,Winter Olympics,France,0,0,1
+1984,Winter Olympics,East Germany,9,9,6
+1984,Winter Olympics,Soviet Union,6,10,9
+1984,Winter Olympics,United States,4,4,0
+1984,Winter Olympics,Finland,4,3,6
+1984,Winter Olympics,Sweden,4,2,2
+1984,Winter Olympics,Norway,3,2,4
+1984,Winter Olympics,Switzerland,2,2,1
+1984,Winter Olympics,Canada,2,1,1
+1984,Winter Olympics,West Germany,2,1,1
+1984,Winter Olympics,Italy,2,0,0
+1984,Winter Olympics,Great Britain,1,0,0
+1984,Winter Olympics,Czechoslovakia,0,2,4
+1984,Winter Olympics,France,0,1,2
+1984,Winter Olympics,Japan,0,1,0
+1984,Winter Olympics,Yugoslavia,0,1,0
+1984,Winter Olympics,Liechtenstein,0,0,2
+1984,Winter Olympics,Austria,0,0,1
+1988,Winter Olympics,Soviet Union,11,9,9
+1988,Winter Olympics,East Germany,9,10,6
+1988,Winter Olympics,Switzerland,5,5,5
+1988,Winter Olympics,Finland,4,1,2
+1988,Winter Olympics,Sweden,4,0,2
+1988,Winter Olympics,Austria,3,5,2
+1988,Winter Olympics,Netherlands,3,2,2
+1988,Winter Olympics,West Germany,2,4,2
+1988,Winter Olympics,United States,2,1,3
+1988,Winter Olympics,Italy,2,1,2
+1988,Winter Olympics,France,1,0,1
+1988,Winter Olympics,Norway,0,3,2
+1988,Winter Olympics,Canada,0,2,3
+1988,Winter Olympics,Yugoslavia,0,2,1
+1988,Winter Olympics,Czechoslovakia,0,1,2
+1988,Winter Olympics,Japan,0,0,1
+1988,Winter Olympics,Liechtenstein,0,0,1
+1992,Winter Olympics,Germany,10,10,6
+1992,Winter Olympics,Unified Team,9,6,8
+1992,Winter Olympics,Norway,9,6,5
+1992,Winter Olympics,Austria,6,7,8
+1992,Winter Olympics,United States,5,4,2
+1992,Winter Olympics,Italy,4,6,4
+1992,Winter Olympics,France,3,5,1
+1992,Winter Olympics,Finland,3,1,3
+1992,Winter Olympics,Canada,2,3,2
+1992,Winter Olympics,Republic of Korea,2,1,1
+1992,Winter Olympics,Japan,1,2,4
+1992,Winter Olympics,Netherlands,1,1,2
+1992,Winter Olympics,Sweden,1,0,3
+1992,Winter Olympics,Switzerland,1,0,2
+1992,Winter Olympics,People's Republic of China,0,3,0
+1992,Winter Olympics,Luxembourg,0,2,0
+1992,Winter Olympics,New Zealand,0,1,0
+1992,Winter Olympics,Czechoslovakia,0,0,3
+1992,Winter Olympics,Democratic People's Republic of Korea,0,0,1
+1992,Winter Olympics,Spain,0,0,1
+1994,Winter Olympics,Russian Federation,11,8,4
+1994,Winter Olympics,Norway,10,11,5
+1994,Winter Olympics,Germany,9,7,8
+1994,Winter Olympics,Italy,7,5,8
+1994,Winter Olympics,United States,6,5,2
+1994,Winter Olympics,Republic of Korea,4,1,1
+1994,Winter Olympics,Canada,3,6,4
+1994,Winter Olympics,Switzerland,3,4,2
+1994,Winter Olympics,Austria,2,3,4
+1994,Winter Olympics,Sweden,2,1,0
+1994,Winter Olympics,Japan,1,2,2
+1994,Winter Olympics,Kazakhstan,1,2,0
+1994,Winter Olympics,Ukraine,1,0,1
+1994,Winter Olympics,Uzbekistan,1,0,0
+1994,Winter Olympics,Belarus,0,2,0
+1994,Winter Olympics,Finland,0,1,5
+1994,Winter Olympics,France,0,1,4
+1994,Winter Olympics,Netherlands,0,1,3
+1994,Winter Olympics,People's Republic of China,0,1,2
+1994,Winter Olympics,Slovenia,0,0,3
+1994,Winter Olympics,Great Britain,0,0,2
+1994,Winter Olympics,Australia,0,0,1
+1998,Winter Olympics,Germany,12,9,8
+1998,Winter Olympics,Norway,10,10,5
+1998,Winter Olympics,Russian Federation,9,6,3
+1998,Winter Olympics,Canada,6,5,4
+1998,Winter Olympics,United States,6,3,4
+1998,Winter Olympics,Netherlands,5,4,2
+1998,Winter Olympics,Japan,5,1,4
+1998,Winter Olympics,Austria,3,5,9
+1998,Winter Olympics,Republic of Korea,3,1,2
+1998,Winter Olympics,Italy,2,6,2
+1998,Winter Olympics,Finland,2,4,6
+1998,Winter Olympics,Switzerland,2,2,3
+1998,Winter Olympics,France,2,1,5
+1998,Winter Olympics,Czechia,1,1,1
+1998,Winter Olympics,Bulgaria,1,0,0
+1998,Winter Olympics,People's Republic of China,0,6,2
+1998,Winter Olympics,Sweden,0,2,1
+1998,Winter Olympics,Denmark,0,1,0
+1998,Winter Olympics,Ukraine,0,1,0
+1998,Winter Olympics,Belarus,0,0,2
+1998,Winter Olympics,Kazakhstan,0,0,2
+1998,Winter Olympics,Australia,0,0,1
+1998,Winter Olympics,Belgium,0,0,1
+1998,Winter Olympics,Great Britain,0,0,1
+2002,Winter Olympics,Norway,13,5,7
+2002,Winter Olympics,Germany,12,16,8
+2002,Winter Olympics,United States,10,13,11
+2002,Winter Olympics,Canada,7,3,7
+2002,Winter Olympics,Russian Federation,5,4,4
+2002,Winter Olympics,France,4,5,2
+2002,Winter Olympics,Italy,4,4,5
+2002,Winter Olympics,Finland,4,2,1
+2002,Winter Olympics,Netherlands,3,5,0
+2002,Winter Olympics,Austria,3,4,10
+2002,Winter Olympics,Switzerland,3,2,6
+2002,Winter Olympics,Croatia,3,1,0
+2002,Winter Olympics,People's Republic of China,2,2,4
+2002,Winter Olympics,Republic of Korea,2,2,0
+2002,Winter Olympics,Australia,2,0,0
+2002,Winter Olympics,Czechia,1,2,0
+2002,Winter Olympics,Estonia,1,1,1
+2002,Winter Olympics,Great Britain,1,0,1
+2002,Winter Olympics,Sweden,0,2,5
+2002,Winter Olympics,Bulgaria,0,1,2
+2002,Winter Olympics,Japan,0,1,1
+2002,Winter Olympics,Poland,0,1,1
+2002,Winter Olympics,Belarus,0,0,1
+2002,Winter Olympics,Slovenia,0,0,1
+2006,Winter Olympics,Germany,11,12,6
+2006,Winter Olympics,United States,9,9,7
+2006,Winter Olympics,Austria,9,7,7
+2006,Winter Olympics,Russian Federation,8,6,8
+2006,Winter Olympics,Canada,7,10,7
+2006,Winter Olympics,Sweden,7,2,5
+2006,Winter Olympics,Republic of Korea,6,3,2
+2006,Winter Olympics,Switzerland,5,4,5
+2006,Winter Olympics,Italy,5,0,6
+2006,Winter Olympics,France,3,2,4
+2006,Winter Olympics,Netherlands,3,2,4
+2006,Winter Olympics,Estonia,3,0,0
+2006,Winter Olympics,Norway,2,8,9
+2006,Winter Olympics,People's Republic of China,2,4,5
+2006,Winter Olympics,Czechia,1,2,1
+2006,Winter Olympics,Croatia,1,2,0
+2006,Winter Olympics,Australia,1,0,1
+2006,Winter Olympics,Japan,1,0,0
+2006,Winter Olympics,Finland,0,6,3
+2006,Winter Olympics,Poland,0,1,1
+2006,Winter Olympics,Belarus,0,1,0
+2006,Winter Olympics,Bulgaria,0,1,0
+2006,Winter Olympics,Great Britain,0,1,0
+2006,Winter Olympics,Slovakia,0,1,0
+2006,Winter Olympics,Ukraine,0,0,2
+2006,Winter Olympics,Latvia,0,0,1
+2010,Winter Olympics,Canada,14,7,5
+2010,Winter Olympics,Germany,10,13,7
+2010,Winter Olympics,United States,9,15,13
+2010,Winter Olympics,Norway,9,8,6
+2010,Winter Olympics,Republic of Korea,6,6,2
+2010,Winter Olympics,Switzerland,6,0,3
+2010,Winter Olympics,People's Republic of China,5,2,4
+2010,Winter Olympics,Sweden,5,2,4
+2010,Winter Olympics,Austria,4,6,6
+2010,Winter Olympics,Netherlands,4,1,3
+2010,Winter Olympics,Russian Federation,3,5,7
+2010,Winter Olympics,France,2,3,6
+2010,Winter Olympics,Australia,2,1,0
+2010,Winter Olympics,Czechia,2,0,4
+2010,Winter Olympics,Poland,1,3,2
+2010,Winter Olympics,Italy,1,1,3
+2010,Winter Olympics,Belarus,1,1,1
+2010,Winter Olympics,Slovakia,1,1,1
+2010,Winter Olympics,Great Britain,1,0,0
+2010,Winter Olympics,Japan,0,3,2
+2010,Winter Olympics,Croatia,0,2,1
+2010,Winter Olympics,Slovenia,0,2,1
+2010,Winter Olympics,Latvia,0,2,0
+2010,Winter Olympics,Finland,0,1,4
+2010,Winter Olympics,Estonia,0,1,0
+2010,Winter Olympics,Kazakhstan,0,1,0
+2014,Winter Olympics,Norway,11,6,9
+2014,Winter Olympics,Russian Federation,10,10,9
+2014,Winter Olympics,Canada,10,10,5
+2014,Winter Olympics,United States,9,9,10
+2014,Winter Olympics,Netherlands,8,7,9
+2014,Winter Olympics,Germany,8,6,5
+2014,Winter Olympics,Switzerland,7,2,2
+2014,Winter Olympics,Belarus,5,0,1
+2014,Winter Olympics,Austria,4,8,5
+2014,Winter Olympics,France,4,4,7
+2014,Winter Olympics,Poland,4,1,1
+2014,Winter Olympics,People's Republic of China,3,4,2
+2014,Winter Olympics,Republic of Korea,3,3,2
+2014,Winter Olympics,Sweden,2,7,6
+2014,Winter Olympics,Czechia,2,4,3
+2014,Winter Olympics,Slovenia,2,2,4
+2014,Winter Olympics,Japan,1,4,3
+2014,Winter Olympics,Finland,1,3,1
+2014,Winter Olympics,Great Britain,1,1,3
+2014,Winter Olympics,Latvia,1,1,3
+2014,Winter Olympics,Ukraine,1,0,1
+2014,Winter Olympics,Slovakia,1,0,0
+2014,Winter Olympics,Italy,0,2,6
+2014,Winter Olympics,Australia,0,2,1
+2014,Winter Olympics,Croatia,0,1,0
+2014,Winter Olympics,Kazakhstan,0,0,1
+2018,Winter Olympics,Norway,14,14,11
+2018,Winter Olympics,Germany,14,10,7
+2018,Winter Olympics,Canada,11,8,10
+2018,Winter Olympics,United States,9,8,6
+2018,Winter Olympics,Netherlands,8,6,6
+2018,Winter Olympics,Sweden,7,6,1
+2018,Winter Olympics,Republic of Korea,5,8,4
+2018,Winter Olympics,Switzerland,5,6,4
+2018,Winter Olympics,France,5,4,6
+2018,Winter Olympics,Austria,5,3,6
+2018,Winter Olympics,Japan,4,5,4
+2018,Winter Olympics,Italy,3,2,5
+2018,Winter Olympics,ROC,2,6,9
+2018,Winter Olympics,Czechia,2,2,3
+2018,Winter Olympics,Belarus,2,1,0
+2018,Winter Olympics,People's Republic of China,1,6,2
+2018,Winter Olympics,Slovakia,1,2,0
+2018,Winter Olympics,Finland,1,1,4
+2018,Winter Olympics,Great Britain,1,0,4
+2018,Winter Olympics,Poland,1,0,1
+2018,Winter Olympics,Hungary,1,0,0
+2018,Winter Olympics,Ukraine,1,0,0
+2018,Winter Olympics,Australia,0,2,1
+2018,Winter Olympics,Slovenia,0,1,1
+2018,Winter Olympics,Belgium,0,1,0
+2018,Winter Olympics,New Zealand,0,0,2
+2018,Winter Olympics,Spain,0,0,2
+2018,Winter Olympics,Kazakhstan,0,0,1
+2018,Winter Olympics,Latvia,0,0,1
+2018,Winter Olympics,Liechtenstein,0,0,1
+2022,Winter Olympics,Norway,16,8,13
+2022,Winter Olympics,Germany,12,10,5
+2022,Winter Olympics,People's Republic of China,9,4,2
+2022,Winter Olympics,United States,8,10,7
+2022,Winter Olympics,Sweden,8,5,5
+2022,Winter Olympics,Netherlands,8,5,4
+2022,Winter Olympics,Austria,7,7,4
+2022,Winter Olympics,Switzerland,7,2,6
+2022,Winter Olympics,ROC,6,12,14
+2022,Winter Olympics,France,5,7,2
+2022,Winter Olympics,Canada,4,8,14
+2022,Winter Olympics,Japan,3,6,9
+2022,Winter Olympics,Italy,2,7,8
+2022,Winter Olympics,Republic of Korea,2,5,2
+2022,Winter Olympics,Slovenia,2,3,2
+2022,Winter Olympics,Finland,2,2,4
+2022,Winter Olympics,New Zealand,2,1,0
+2022,Winter Olympics,Australia,1,2,1
+2022,Winter Olympics,Great Britain,1,1,0
+2022,Winter Olympics,Hungary,1,0,2
+2022,Winter Olympics,Belgium,1,0,1
+2022,Winter Olympics,Czechia,1,0,1
+2022,Winter Olympics,Slovakia,1,0,1
+2022,Winter Olympics,Belarus,0,2,0
+2022,Winter Olympics,Spain,0,1,0
+2022,Winter Olympics,Ukraine,0,1,0
+2022,Winter Olympics,Estonia,0,0,1
+2022,Winter Olympics,Latvia,0,0,1
+2022,Winter Olympics,Poland,0,0,1
+1956,Equestrian,Sweden,3,0,0
+1956,Equestrian,Germany,2,3,1
+1956,Equestrian,Great Britain,1,0,2
+1956,Equestrian,Italy,0,2,1
+1956,Equestrian,Denmark,0,1,0
+1956,Equestrian,Canada,0,0,1
+1956,Equestrian,Switzerland,0,0,1
+1906,Intercalated,France,15,9,16
+1906,Intercalated,United States,12,6,6
+1906,Intercalated,Greece,8,14,13
+1906,Intercalated,Great Britain,8,11,5
+1906,Intercalated,Italy,7,6,3
+1906,Intercalated,Germany,4,6,5
+1906,Intercalated,Switzerland,4,3,1
+1906,Intercalated,Austria,3,3,3
+1906,Intercalated,Denmark,3,2,1
+1906,Intercalated,Sweden,2,5,7
+1906,Intercalated,Hungary,2,5,3
+1906,Intercalated,Belgium,2,2,3
+1906,Intercalated,Finland,2,1,1
+1906,Intercalated,Canada,1,1,0
+1906,Intercalated,Norway,1,1,0
+1906,Intercalated,Netherlands,0,1,2
+1906,Intercalated,Australia,0,0,3
+1906,Intercalated,Bohemia,0,0,2

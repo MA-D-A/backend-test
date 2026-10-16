@@ -1,0 +1,9 @@
+A,B,A->B,B->A,CramersV,n_unik_A,n_unik_B
+country,country_noc,True,True,1.0,154,154
+edition,edition_id,True,True,1.0,55,55
+edition_id,year,True,False,1.0,55,38
+year,edition_id,False,True,1.0,38,55
+edition,year,True,False,1.0,55,38
+year,edition,False,True,1.0,38,55
+edition_id,season,True,False,1.0,55,4
+year,season,False,False,0.731,38,4

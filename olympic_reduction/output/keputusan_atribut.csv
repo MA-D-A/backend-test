@@ -1,0 +1,9 @@
+Atribut,Keputusan,Justifikasi
+total,HAPUS,"Identitas aritmetika total = gold+silver+bronze (100% baris), VIF tinggi. Informasi 100% turunan (redundan sejati)."
+country_noc,HAPUS,"Pemetaan 1:1 dengan country (154=154, Cramer's V=1). Sama persis; NOC disimpan hanya sebagai kunci kode bila perlu."
+edition_id,HAPUS,Pemetaan 1:1 dengan edition (55=55). ID urut tanpa makna analitik selain label edisi.
+edition,HAPUS (setelah diekstrak),Berisi year + jenis ajang. Year dipertahankan terpisah; jenis ajang diekstrak menjadi 'season'.
+year,PERTAHANKAN,Korelasi sangat tinggi dg edition_id (r~1) TAPI BUKAN redundan penuh: 1 tahun dapat memiliki >1 edisi (Summer & Winter). Membawa makna waktu numerik.
+season (baru),TAMBAH,Hasil ekstraksi dari edition: Summer/Winter/Intercalated/Equestrian. Informasi yang tidak ada di year.
+country,PERTAHANKAN,Kunci entitas analisis.
+"gold, silver, bronze",PERTAHANKAN,"Korelasi tinggi (r~0.8-0.9) tapi MAKNA berbeda (kualitas medali). Hubungan kuat, bukan informasi sama -> tidak dihapus."
